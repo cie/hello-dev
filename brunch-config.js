@@ -11,12 +11,9 @@ module.exports = {
       joinTo: 'app.js'
     }
   },
-  npm: {
-    enabled: false
-  },
   modules: {
     autoRequire: {
-      'app.js': ['app']
+      'app.js': ['src/app.ts']
     }
   }
 }
