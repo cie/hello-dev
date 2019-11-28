@@ -4,7 +4,7 @@
   "description": "Brunch with TypeScript",
   "scripts": {
     "preinstall": "node -e \"!process.env.npm_config_user_agent.startsWith('pnpm/')&&!console.log('!!! Use pnpm install to install/add dependencies\\n')&&process.exit(1)\"",
-    "start": "sudo ./start.sh",
+    "start": "brunch watch --serve",
     "prod": "brunch build --production"
   },
   "devDependencies": {
