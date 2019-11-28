@@ -1,4 +1,5 @@
-import moment = require('moment')
+import moment from 'moment'
+
 
 class App {
   constructor () {
@@ -6,10 +7,10 @@ class App {
   }
 
   private hello () {
-    console.log(`Hello ${this.who} !` + moment)
+    console.log(`Helló ${this.who} !` + moment)
   }
 
-  private who = 'World :)'
+  private who = 'World :%'
 }
 
 export = new App()

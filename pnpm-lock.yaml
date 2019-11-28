@@ -6,6 +6,7 @@ devDependencies:
   auto-reload-brunch: 2.7.1
   brunch: 2.10.17
   lodash: 4.17.15
+  typescript: 3.7.2
   uglify-js-brunch: 2.10.0
 lockfileVersion: 5.1
 packages:
@@ -2365,6 +2366,13 @@ packages:
     hasBin: true
     resolution:
       integrity: sha1-QMfm6eXaeWG3cYtVUF+crJSHpgc=
+  /typescript/3.7.2:
+    dev: true
+    engines:
+      node: '>=4.2.0'
+    hasBin: true
+    resolution:
+      integrity: sha512-ml7V7JfiN2Xwvcer+XAf2csGO1bPBdRbFCkYBczNZggrBZ9c7G3riSUeJmqEU5uOtXNPMhE3n+R4FA/3YOAWOQ==
   /uglify-js-brunch/2.10.0:
     dependencies:
       uglify-js: 2.6.4
@@ -2519,10 +2527,11 @@ packages:
     resolution:
       integrity: sha1-9+572FfdfB0tOMDnTvvWgdFDH9E=
 specifiers:
-  auto-reload-brunch: ^2.1.0
-  brunch: ^2.5.3
-  jsx: ''
+  auto-reload-brunch: ^2.7.1
+  brunch: ^2.10.17
+  jsx: ^0.9.89
   lodash: ^4.17.15
-  moment: ''
+  moment: ^2.24.0
+  typescript: ^3.7.2
   typescript-brunch: ^2.3.0
-  uglify-js-brunch: ^2.0.1
+  uglify-js-brunch: ^2.10.0
