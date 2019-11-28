@@ -113,7 +113,24 @@
   require.brunch = true;
   globals.require = require;
 })();
-/* jshint ignore:start */
+require.register("src/app.ts", function(exports, require, module) {
+"use strict";
+var moment = require("moment");
+var App = (function () {
+    function App() {
+        this.who = 'World :)';
+        this.hello();
+    }
+    App.prototype.hello = function () {
+        console.log("Hello " + this.who + " !" + moment);
+    };
+    return App;
+}());
+module.exports = new App();
+//# sourceMappingURL=app.js.map
+});
+
+;/* jshint ignore:start */
 (function() {
   var WebSocket = window.WebSocket || window.MozWebSocket;
   var br = window.brunch = (window.brunch || {});

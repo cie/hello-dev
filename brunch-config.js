@@ -3,6 +3,9 @@ module.exports = {
     public: 'dist',
     watched: ['src']
   },
+  conventions: {
+    assets: 'src/assets/**'
+  },
   files: {
     javascripts: {
       joinTo: 'app.js'
