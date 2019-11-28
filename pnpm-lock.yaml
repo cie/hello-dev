@@ -1,9 +1,11 @@
 dependencies:
+  jsx: 0.9.89
   moment: 2.24.0
   typescript-brunch: 2.3.0_brunch@2.10.17
 devDependencies:
   auto-reload-brunch: 2.7.1
   brunch: 2.10.17
+  lodash: 4.17.15
   uglify-js-brunch: 2.10.0
 lockfileVersion: 5.1
 packages:
@@ -31,6 +33,12 @@ packages:
       node: '>=0.10.0'
     resolution:
       integrity: sha1-DNkKVhCT810KmSVsIrcGlDP60Rc=
+  /amdefine/1.0.1:
+    dev: false
+    engines:
+      node: '>=0.4.2'
+    resolution:
+      integrity: sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU=
   /ansi-regex/2.1.1:
     engines:
       node: '>=0.10.0'
@@ -708,6 +716,75 @@ packages:
       node: '>=0.8.0'
     resolution:
       integrity: sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
+  /escodegen/0.0.28:
+    dependencies:
+      esprima: 1.0.4
+      estraverse: 1.3.2
+    dev: false
+    engines:
+      node: '>=0.4.0'
+    hasBin: true
+    optionalDependencies:
+      source-map: 0.1.43
+    resolution:
+      integrity: sha1-Dk/xcV8yh3XWyrUaxEpAbNer/9M=
+  /escope/1.0.3:
+    dependencies:
+      estraverse: 2.0.0
+    dev: false
+    engines:
+      node: '>=0.4.0'
+    resolution:
+      integrity: sha1-dZ3OhJbEJI/sLQyq9BCLzz8af10=
+  /esmangle/0.0.17:
+    dependencies:
+      escodegen: 0.0.28
+      escope: 1.0.3
+      esprima: 1.0.4
+      esshorten: 0.0.2
+      estraverse: 1.3.2
+      optimist: 0.6.1
+      source-map: 0.1.43
+    dev: false
+    engines:
+      node: '>=0.6.0'
+    hasBin: true
+    resolution:
+      integrity: sha1-TFyTYHzeXRJ2utOW6DYinbpo2Qw=
+  /esprima/1.0.4:
+    dev: false
+    engines:
+      node: '>=0.4.0'
+    hasBin: true
+    resolution:
+      integrity: sha1-n1V+CPw7TSbs6d00+Pv0drYlha0=
+  /esshorten/0.0.2:
+    dependencies:
+      escope: 1.0.3
+      estraverse: 1.2.0
+    dev: false
+    engines:
+      node: '>=0.6.0'
+    resolution:
+      integrity: sha1-KKZS8e/UDI4if4xt59vmtWDugSk=
+  /estraverse/1.2.0:
+    dev: false
+    engines:
+      node: '>=0.4.0'
+    resolution:
+      integrity: sha1-aj3IpGpdZ2blZoY5/Hgpds5WYP0=
+  /estraverse/1.3.2:
+    dev: false
+    engines:
+      node: '>=0.4.0'
+    resolution:
+      integrity: sha1-N8K4k+8T1yPydth41g2FNRUqbEI=
+  /estraverse/2.0.0:
+    dev: false
+    engines:
+      node: '>=0.10.0'
+    resolution:
+      integrity: sha1-WuRpYyQ2ACBmdMyySgnhZnT83KE=
   /etag/1.8.1:
     engines:
       node: '>= 0.6'
@@ -1352,6 +1429,19 @@ packages:
       node: '>=0.10.0'
     resolution:
       integrity: sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
+  /jsx/0.9.89:
+    dependencies:
+      escodegen: 0.0.28
+      esmangle: 0.0.17
+      esprima: 1.0.4
+      source-map: 0.1.43
+      source-map-support: 0.2.10
+    dev: false
+    engines:
+      node: '>= 0.8.0'
+    hasBin: true
+    resolution:
+      integrity: sha1-xYlojcn/4EohH9tjPMfSAt14qSI=
   /kind-of/3.2.2:
     dependencies:
       is-buffer: 1.1.6
@@ -1385,6 +1475,10 @@ packages:
   /lodash.camelcase/4.3.0:
     resolution:
       integrity: sha1-soqmKIorn8ZRA1x3EfZathkDMaY=
+  /lodash/4.17.15:
+    dev: true
+    resolution:
+      integrity: sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
   /loggy/1.0.8:
     dependencies:
       colorette: 1.1.0
@@ -2095,9 +2189,31 @@ packages:
       urix: 0.1.0
     resolution:
       integrity: sha512-MjqsvNwyz1s0k81Goz/9vRBe9SZdB09Bdw+/zYyO+3CuPk6fouTaxscHkgtE8jKvf01kVfl8riHzERQ/kefaSA==
+  /source-map-support/0.2.10:
+    dependencies:
+      source-map: 0.1.32
+    dev: false
+    resolution:
+      integrity: sha1-6lo5AKHByyUJagrozFwrSxDe09w=
   /source-map-url/0.4.0:
     resolution:
       integrity: sha1-PpNdfd1zYxuXZZlW1VEo6HtQhKM=
+  /source-map/0.1.32:
+    dependencies:
+      amdefine: 1.0.1
+    dev: false
+    engines:
+      node: '>=0.8.0'
+    resolution:
+      integrity: sha1-yLbBZ3l7pHQKjqMyUhYv8IWRsmY=
+  /source-map/0.1.43:
+    dependencies:
+      amdefine: 1.0.1
+    dev: false
+    engines:
+      node: '>=0.8.0'
+    resolution:
+      integrity: sha1-wkvBRspRfBRx9drL4lcbK3+eM0Y=
   /source-map/0.5.7:
     engines:
       node: '>=0.10.0'
@@ -2405,6 +2521,8 @@ packages:
 specifiers:
   auto-reload-brunch: ^2.1.0
   brunch: ^2.5.3
+  jsx: ''
+  lodash: ^4.17.15
   moment: ''
   typescript-brunch: ^2.3.0
   uglify-js-brunch: ^2.0.1

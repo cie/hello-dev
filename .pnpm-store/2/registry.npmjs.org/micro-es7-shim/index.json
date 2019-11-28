@@ -1,0 +1,20 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "micro-es7-shim",
+			"version": "0.1.0",
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "aa9989a2f93037a93e7b30e2c92433db0b4ca228",
+				"tarball": "https://registry.npmjs.org/micro-es7-shim/-/micro-es7-shim-0.1.0.tgz"
+			}
+		}
+	},
+	"name": "micro-es7-shim",
+	"dist-tags": {
+		"latest": "0.1.0"
+	},
+	"modified": "2016-08-12T20:09:46.689Z",
+	"cachedAt": 1574943451639
+}

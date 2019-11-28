@@ -1,0 +1,6643 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "brunch",
+			"version": "0.0.1",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"fusion": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "24ca01e75fee5d7205da43c2e00b6b97247929c2",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.0.1.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.0.2": {
+			"name": "brunch",
+			"version": "0.0.2",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "3c5f1cbff0d4ba3a5635ef6dbb17a76bd26efdaa",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.0.2.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.0.3": {
+			"name": "brunch",
+			"version": "0.0.3",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "c9add09e6a3fdbffc44a177e3085564c0ae85420",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.0.3.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.0.4": {
+			"name": "brunch",
+			"version": "0.0.4",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "76e7ac9f39a01f27ca8645ea568c95046cbb746e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.0.4.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.0.5": {
+			"name": "brunch",
+			"version": "0.0.5",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "4298a5eac1530aed72a984265cbc968a6c842d09",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.0.5.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.0.6": {
+			"name": "brunch",
+			"version": "0.0.6",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "54a064fb9f90a7d4d87ea4bd5fc64486e8270f85",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.0.6.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.0.7": {
+			"name": "brunch",
+			"version": "0.0.7",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "7245a69f897a5d62098cbf0b30f5eed9c7c2646e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.0.7.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.0.8": {
+			"name": "brunch",
+			"version": "0.0.8",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "feb0afc3962539f55439a866783b7d3f3b7b9e79",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.0.8.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.0": {
+			"name": "brunch",
+			"version": "0.1.0",
+			"dependencies": {
+				"watch": "0.3.0",
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "40fa7b643d2e5888a2e812274f3f37ce7ae6bab8",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.0.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.1": {
+			"name": "brunch",
+			"version": "0.1.1",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "8ec585c8176c5bde084b2809a442c770922d03ba",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.1.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.3": {
+			"name": "brunch",
+			"version": "0.1.3",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "4f099426ff24621d334efd7ddc2162d7a94844e1",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.3.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.4": {
+			"name": "brunch",
+			"version": "0.1.4",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "38d72c86935a21e463141b8c2a76a2286d904fc2",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.4.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.5": {
+			"name": "brunch",
+			"version": "0.1.5",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "fb0363aa74470979f8ccc1ed66f4b2ba14e2b34a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.5.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.6": {
+			"name": "brunch",
+			"version": "0.1.6",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "9ffbad61326232b168a6e18348001119e3d2c622",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.6.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.7": {
+			"name": "brunch",
+			"version": "0.1.7",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "5460e38a49f516e2694cb72707d97ee63b3580ef",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.7.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.8": {
+			"name": "brunch",
+			"version": "0.1.8",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "bb6b3917e2ac8fe3586635be13cd08c80d4d35ef",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.8.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.1.9": {
+			"name": "brunch",
+			"version": "0.1.9",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "96f2a6c5592a34a3bb653814227ae07e9eddfaf0",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.1.9.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.2.0": {
+			"name": "brunch",
+			"version": "0.2.0",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"stylus": ">= 0.0.2"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "771be6688505d4ef9deff879835cea99cf45f40e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.2.0.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.2.1": {
+			"name": "brunch",
+			"version": "0.2.1",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"stylus": ">= 0.0.2"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "ec135577f5cbf70d9167824d6aeb7fe60b017292",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.2.1.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.2.2": {
+			"name": "brunch",
+			"version": "0.2.2",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"stylus": ">= 0.0.2"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "809675ad4ae9380c269c08ce97e2e42c8efa65af",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.2.2.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.2.3": {
+			"name": "brunch",
+			"version": "0.2.3",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"stylus": ">= 0.0.2"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "4934a7961a7f599acb078a4c9de6ac10ddd601c0",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.2.3.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.2.4": {
+			"name": "brunch",
+			"version": "0.2.4",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"stylus": ">= 0.0.2"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "55ed33ac9f95760cea234e33aebcc1ca63792dec",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.2.4.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.2.6": {
+			"name": "brunch",
+			"version": "0.2.6",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.3",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"stylus": ">= 0.0.2"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "d5c3c14f610b43a40aade04b52ec66fa5394b19d",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.2.6.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.2.7": {
+			"name": "brunch",
+			"version": "0.2.7",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.5",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"stylus": ">= 0.2.1",
+				"watch": ">=0.1.8"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "777c7958fa46d9727ba715bf191399f88a5fc194",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.2.7.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.2.8": {
+			"name": "brunch",
+			"version": "0.2.8",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.5",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"watch": ">=0.1.8",
+				"nomnom": ">=0.1.2",
+				"stylus": ">= 0.3.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": "0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "ed131c36c4a4269f755f4ed23f69a437fe1a4e4d",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.2.8.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.3.0": {
+			"name": "brunch",
+			"version": "0.3.0",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.5",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">= 0.3.1",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "46e7a262a628ff1fa8236089a31dcb62f908c8f0",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.3.0.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.3.1": {
+			"name": "brunch",
+			"version": "0.3.1",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">= 0.3.1",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "53d671a10c33158227f4b9253c34fa8de5a63b1d",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.3.1.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.3.2": {
+			"name": "brunch",
+			"version": "0.3.2",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">= 0.5.2",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "ff07dbcff8e31e31368a0134f510a2676e27e67e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.3.2.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.3.4": {
+			"name": "brunch",
+			"version": "0.3.4",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">= 0.5.2",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "1ed4fc52ba950946faa2e5548910f4d0cbbd05cb",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.3.4.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.3.5": {
+			"name": "brunch",
+			"version": "0.3.5",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">= 0.5.2",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "657adb1c424ba93e3b647a6f93da0743c1144aa7",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.3.5.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.3.6": {
+			"name": "brunch",
+			"version": "0.3.6",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">= 0.5.2",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "4ff0c6c9fb576e5249eed6a1122e948ff4a98a12",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.3.6.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.3.7": {
+			"name": "brunch",
+			"version": "0.3.7",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.6.3",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "9d8ebfacf4edd582ad5c1e4fda9ecb333b59385a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.3.7.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.4.0": {
+			"name": "brunch",
+			"version": "0.4.0",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.6.3",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "0323173e5ec18e22583c60881eaba4ae11b9fb09",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.4.0.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.4.1": {
+			"name": "brunch",
+			"version": "0.4.1",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.6.3",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "b803a7f28adb069905c93703e0e5c93c7d8c09e1",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.4.1.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.4.2": {
+			"name": "brunch",
+			"version": "0.4.2",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.6.3",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "8d628cffdb06923bc6fa5001b40372b225e19dcd",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.4.2.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.4.3": {
+			"name": "brunch",
+			"version": "0.4.3",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.6.5",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "a3c82e7c7b283a47f7605dc9f9ff096284703ad2",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.4.3.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.4.4": {
+			"name": "brunch",
+			"version": "0.4.4",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.6.5",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=1.0.7"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "031d7ef80c1f9866b8ec41a559eaf91d8240e19f",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.4.4.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.4.5": {
+			"name": "brunch",
+			"version": "0.4.5",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.6.5",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=1.0.7"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "657ac20793485109a532ed9c7eb793ed9fddef41",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.4.5.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.5.1": {
+			"name": "brunch",
+			"version": "0.5.1",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.6.5",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=1.0.7"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "e314eb4ef89e1a5109ee6a61611524d4c7e3fc57",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.5.1.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.5.2": {
+			"name": "brunch",
+			"version": "0.5.2",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.0",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.7.0",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=1.0.7"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "35a82cd14b24a91fed41a2b604a308edb19b17a7",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.5.2.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.5.3": {
+			"name": "brunch",
+			"version": "0.5.3",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.7.0",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=1.0.7"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "548cbadc28280751fbf144ee0b80e9dcdfe03216",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.5.3.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.5.4": {
+			"name": "brunch",
+			"version": "0.5.4",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.7.0",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=1.0.7"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "12f3ddb35e388a4c57d300c9bef2c110203d0c42",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.5.4.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.5.5": {
+			"name": "brunch",
+			"version": "0.5.5",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.7.4",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=1.0.7"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "4996afc31385baf515d2542d0ab3877222928b51",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.5.5.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.5.6": {
+			"name": "brunch",
+			"version": "0.5.6",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.0.6",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.7.4",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=1.0.7"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "53884cb4d94de9877fdb7caf1a81e44bcf473e1a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.5.6.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.6.0": {
+			"name": "brunch",
+			"version": "0.6.0",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.1.0",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.9.2",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=2.0.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "114803b0854c71818f093cde086faf9060050ef1",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.6.0.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.6.1": {
+			"name": "brunch",
+			"version": "0.6.1",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.1.0",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.9.2",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=2.0.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "2a9ea910e8d5c6a2e47047d99bda631d7e2fe4f9",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.6.1.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.6.2": {
+			"name": "brunch",
+			"version": "0.6.2",
+			"dependencies": {
+				"yaml": "0.1.1",
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.4",
+				"fusion": ">= 0.1.0",
+				"glob": ">= 1.1.0",
+				"eco": ">= 1.0.1",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.11.1",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"docco": ">=0.3.0",
+				"express": ">=2.0.0"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.0",
+				"vows": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "0d2e62c89692061162502ba5297af2515e216ae8",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.6.2.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.7.0": {
+			"name": "brunch",
+			"version": "0.7.0",
+			"dependencies": {
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.4",
+				"eco": ">= 1.0.3",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.11.10",
+				"async": ">=0.1.8",
+				"file": ">=0.1.1",
+				"express": ">=2.0.0",
+				"stitch": "0.3.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.1",
+				"nodeunit": ">= 0.5.1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "655ea29c889311b602723ee8d98ec6a691863aab",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.7.0.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.7.1": {
+			"name": "brunch",
+			"version": "0.7.1",
+			"dependencies": {
+				"coffee-script": ">= 1.0.1",
+				"underscore": ">= 1.1.6",
+				"eco": ">= 1.0.3",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.12.3",
+				"async": ">=0.1.8",
+				"yaml": ">=0.1.2",
+				"file": ">=0.1.1",
+				"express": ">=2.0.0",
+				"stitch": "0.3.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.0.1",
+				"nodeunit": ">= 0.5.1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "dc04ab25d238addbb8e914614278e6e3e267c0a6",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.7.1.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.7.2": {
+			"name": "brunch",
+			"version": "0.7.2",
+			"dependencies": {
+				"coffee-script": ">= 1.1.1",
+				"underscore": ">= 1.1.6",
+				"eco": ">= 1.0.3",
+				"nomnom": ">=0.1.2",
+				"stylus": ">=0.13.0",
+				"async": ">=0.1.8",
+				"yaml": ">=0.1.2",
+				"file": ">=0.1.1",
+				"express": ">=2.0.0",
+				"stitch": "0.3.1"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.1.1",
+				"nodeunit": ">= 0.5.1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "7864c88f5df776bafb7fcee4a9bca10b50b11012",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.7.2.tgz"
+			},
+			"engines": [
+				"node"
+			]
+		},
+		"0.7.3": {
+			"name": "brunch",
+			"version": "0.7.3",
+			"dependencies": {
+				"coffee-script": ">= 1.1.1",
+				"underscore": ">= 1.1.6",
+				"eco": ">= 1.0.3",
+				"nomnom": ">= 0.4.8",
+				"stylus": ">= 0.13.3",
+				"async": ">= 0.1.9",
+				"yaml": ">= 0.2.1",
+				"file": ">= 0.1.1",
+				"express": ">= 2.3.10",
+				"stitch": ">= 0.3.2",
+				"uglify-js": ">= 1.0.2"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.1.1",
+				"nodeunit": ">= 0.5.1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib",
+				"bin": "./bin"
+			},
+			"dist": {
+				"shasum": "c65b923f4199f2231a926bad1fde10a0915806e9",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.7.3.tgz"
+			},
+			"engines": {
+				"node": ">= 0.4.8"
+			}
+		},
+		"0.7.4": {
+			"name": "brunch",
+			"version": "0.7.4",
+			"dependencies": {
+				"coffee-script": ">= 1.1.1",
+				"underscore": ">= 1.1.6",
+				"eco": ">= 1.0.3",
+				"nomnom": ">= 0.4.8",
+				"stylus": ">= 0.13.3",
+				"async": ">= 0.1.9",
+				"yaml": ">= 0.2.1",
+				"file": ">= 0.1.1",
+				"express": ">= 2.3.10",
+				"stitch": ">= 0.3.2",
+				"uglify-js": ">= 1.0.2"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.1.1",
+				"nodeunit": ">= 0.5.1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "e20d8b6b254ba7e1b0a39f56233bdc0b7ed77527",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.7.4.tgz"
+			},
+			"engines": {
+				"node": ">= 0.4.8"
+			}
+		},
+		"0.8.0": {
+			"name": "brunch",
+			"version": "0.8.0",
+			"dependencies": {
+				"coffee-script": ">= 1.1.1",
+				"underscore": ">= 1.1.7",
+				"eco": ">= 1.0.3",
+				"nomnom": ">= 0.6.1",
+				"stylus": ">= 0.13.7",
+				"async": ">= 0.1.9",
+				"yaml": ">= 0.2.1",
+				"file": ">= 0.1.1",
+				"stitch": ">= 0.3.2",
+				"uglify-js": ">= 1.0.6"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.1.1",
+				"express": ">= 2.4.3",
+				"nodeunit": ">= 0.5.3"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "17638e2e1e5697ab1c0c5b2792b783767d0a6d19",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.8.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.4.8"
+			}
+		},
+		"0.8.1": {
+			"name": "brunch",
+			"version": "0.8.1",
+			"dependencies": {
+				"coffee-script": ">= 1.1.1",
+				"underscore": ">= 1.1.7",
+				"eco": ">= 1.0.3",
+				"nomnom": "1.0.0",
+				"stylus": ">= 0.13.7",
+				"async": ">= 0.1.9",
+				"yaml": ">= 0.2.1",
+				"file": ">= 0.1.1",
+				"stitch": ">= 0.3.2",
+				"uglify-js": ">= 1.0.6"
+			},
+			"devDependencies": {
+				"coffee-script": ">= 1.1.1",
+				"express": ">= 2.4.3",
+				"nodeunit": ">= 0.5.3",
+				"zombie": ">= 0.9.7"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0031f5bbf8c9187ec8f356a1db26150555ae4630",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.8.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.4.8"
+			}
+		},
+		"0.9.0-beta1": {
+			"name": "brunch",
+			"version": "0.9.0-beta1",
+			"dependencies": {
+				"coffee-script": "1.2.0",
+				"argumentum": "0.5.0",
+				"async": "0.1.15",
+				"mkdirp": "0.2.1",
+				"growl": "1.4.1",
+				"express": "2.5.1"
+			},
+			"devDependencies": {
+				"mocha": "0.8.0",
+				"expect.js": "0.1.1",
+				"zombie": "0.12.7"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b8b3f30c65907fd0f228a9860e6eee144820d44",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.9.0-beta1.tgz"
+			},
+			"engines": {
+				"node": "~0.6.6"
+			}
+		},
+		"0.9.0": {
+			"name": "brunch",
+			"version": "0.9.0",
+			"dependencies": {
+				"coffee-script": "1.2.0",
+				"argumentum": "0.5.0",
+				"async": "0.1.15",
+				"mkdirp": "0.2.1",
+				"growl": "1.4.1",
+				"express": "2.5.1"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "0.8.0",
+				"expect.js": "0.1.1",
+				"zombie": "0.12.7"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5a79e824e5e9dd7ae76f1932bbdc1cdc612efc4a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.9.0.tgz"
+			},
+			"engines": {
+				"node": "~0.6.6"
+			}
+		},
+		"0.9.1": {
+			"name": "brunch",
+			"version": "0.9.1",
+			"dependencies": {
+				"coffee-script": "1.2.0",
+				"argumentum": "0.5.0",
+				"async": "0.1.15",
+				"mkdirp": "0.2.1",
+				"growl": "1.4.1",
+				"express": "2.5.1"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "0.8.0",
+				"expect.js": "0.1.1",
+				"zombie": "0.12.7"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3ddbfefc253ab2188d73c39c764cb5d5bee2bf9e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-0.9.1.tgz"
+			},
+			"engines": {
+				"node": "~0.6.6"
+			}
+		},
+		"1.0.0": {
+			"name": "brunch",
+			"version": "1.0.0",
+			"dependencies": {
+				"coffee-script": "1.2.0",
+				"argumentum": "0.6.0",
+				"async": "0.1.15",
+				"mkdirp": "0.2.1",
+				"ncp": "0.2.3",
+				"growl": "1.4.1",
+				"express": "2.5.1",
+				"winston": "0.5.10"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "0.14.0",
+				"expect.js": "0.1.2",
+				"zombie": "0.12.7"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "70456b6d76b3f0bcf2844f68294efdcb1c5768ab",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.0.0.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10"
+			}
+		},
+		"1.0.1": {
+			"name": "brunch",
+			"version": "1.0.1",
+			"dependencies": {
+				"coffee-script": "1.2.0",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"winston": "0.5.11"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "0.14.0",
+				"expect.js": "0.1.2",
+				"zombie": "0.12.7"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7e87b0294d9e74740a1cf6176a6918384f6648d3",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.0.1.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10"
+			}
+		},
+		"1.0.2": {
+			"name": "brunch",
+			"version": "1.0.2",
+			"dependencies": {
+				"coffee-script": "1.2.0",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"winston": "0.5.11"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "0.14.0",
+				"expect.js": "0.1.2",
+				"zombie": "0.12.7"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "13dd7af181d403a3fd777286c147c2e45d065bb8",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.0.2.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10"
+			}
+		},
+		"1.0.3": {
+			"name": "brunch",
+			"version": "1.0.3",
+			"dependencies": {
+				"coffee-script": "1.2.0",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"winston": "0.5.11"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "0.14.0",
+				"expect.js": "0.1.2",
+				"zombie": "0.12.7"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d0959f693c9101ed94350f24c5fa4cc975ad7f43",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.0.3.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10"
+			}
+		},
+		"1.1.0": {
+			"name": "brunch",
+			"version": "1.1.0",
+			"dependencies": {
+				"coffee-script": "1.3.1",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.1",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"date-utils": "1.2.10",
+				"ansi-color": "0.2.1"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.0.1",
+				"expect.js": "0.1.2"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fdd807fcb30f7beff120c9a15c29e38ec3c91241",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.1.0.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.1.1": {
+			"name": "brunch",
+			"version": "1.1.1",
+			"dependencies": {
+				"coffee-script": "1.3.1",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.1",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"date-utils": "1.2.10",
+				"ansi-color": "0.2.1"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.0.1",
+				"expect.js": "0.1.2"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dba0173f3f80fa3c7103f4b941cf6950cda68aa7",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.1.1.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.1.2": {
+			"name": "brunch",
+			"version": "1.1.2",
+			"dependencies": {
+				"coffee-script": "1.3.1",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.1",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"date-utils": "1.2.10",
+				"ansi-color": "0.2.1"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.0.1",
+				"expect.js": "0.1.2"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "610dae578973654eb8d947df73d807b48c78d65c",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.1.2.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.2.0": {
+			"name": "brunch",
+			"version": "1.2.0",
+			"dependencies": {
+				"coffee-script": "1.3.1",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"chokidar": "0.2.2",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.1",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"date-utils": "1.2.10",
+				"ansi-color": "0.2.1"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.0.1",
+				"expect.js": "0.1.2"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f506f071dba7156c182587344f4443edd224e096",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.2.0.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.2.1": {
+			"name": "brunch",
+			"version": "1.2.1",
+			"dependencies": {
+				"coffee-script": "1.3.1",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"chokidar": "0.2.3",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.1",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"date-utils": "1.2.10",
+				"ansi-color": "0.2.1"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.0.1",
+				"expect.js": "0.1.2"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "585c0674364c21f18d17cdcefe960166c05c5579",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.2.1.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.2.2": {
+			"name": "brunch",
+			"version": "1.2.2",
+			"dependencies": {
+				"coffee-script": "1.3.1",
+				"argumentum": "0.6.0",
+				"async": "0.1.18",
+				"chokidar": "0.2.3",
+				"mkdirp": "0.3.0",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.1",
+				"growl": "1.5.0",
+				"express": "2.5.8",
+				"date-utils": "1.2.10",
+				"ansi-color": "0.2.1",
+				"inflection": "1.2.0"
+			},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.0.1",
+				"expect.js": "0.1.2"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "802d4a9133266ecfea492ed47d19d3911d1d9c2b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.2.2.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.3.0": {
+			"name": "brunch",
+			"version": "1.3.0",
+			"dependencies": {
+				"coffee-script": "1.3.3",
+				"argumentum": "0.6.0",
+				"async": "0.1.22",
+				"chokidar": "0.2.6",
+				"mkdirp": "0.3.3",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.1",
+				"growl": "1.5.0",
+				"express": "2.5.9",
+				"date-utils": "1.2.10",
+				"ansi-color": "0.2.1",
+				"inflection": "1.2.0",
+				"mocha": "1.2.0"
+			},
+			"devDependencies": {},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "671212a6ee40231f0564225dee30a6e5f6072a24",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.3.0.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.3.1": {
+			"name": "brunch",
+			"version": "1.3.1",
+			"dependencies": {
+				"coffee-script": "1.3.3",
+				"argumentum": "0.6.0",
+				"async": "0.1.22",
+				"chokidar": "0.2.6",
+				"mkdirp": "0.3.3",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.1",
+				"growl": "1.5.0",
+				"express": "2.5.9",
+				"date-utils": "1.2.10",
+				"ansi-color": "0.2.1",
+				"inflection": "1.2.0",
+				"mocha": "1.2.0"
+			},
+			"devDependencies": {},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1aab4e55d1597aea1eb24d4f4bb6047c1c55134c",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.3.1.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.3.2": {
+			"name": "brunch",
+			"version": "1.3.2",
+			"dependencies": {
+				"coffee-script": "1.3.3",
+				"argumentum": "0.6.0",
+				"chokidar": "0.3.0",
+				"async": "0.1.22",
+				"mkdirp": "0.3.3",
+				"ncp": "0.2.6",
+				"rimraf": "2.0.2",
+				"growl": "1.5.1",
+				"express": "2.5.10",
+				"date-utils": "1.2.11",
+				"ansi-color": "0.2.1",
+				"inflection": "1.2.1",
+				"mocha": "1.2.0"
+			},
+			"devDependencies": {},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "726cbedbdea55a297de32bb1cf5b39f94b0b481c",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.3.2.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.7 || 0.8"
+			}
+		},
+		"1.3.3": {
+			"name": "brunch",
+			"version": "1.3.3",
+			"dependencies": {
+				"coffee-script": "1.3.x",
+				"argumentum": "0.6.x",
+				"chokidar": "0.3.x",
+				"async": "0.1.x",
+				"mkdirp": "0.3.x",
+				"ncp": "0.2.x",
+				"rimraf": "2.0.x",
+				"growl": "1.5.x",
+				"express": "2.5.x",
+				"date-utils": "1.2.x",
+				"ansi-color": "0.2.x",
+				"inflection": "1.2.x",
+				"mocha": "1.2.x"
+			},
+			"devDependencies": {},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ae1b23f6b7f33f8732af29b26d41ee4f56114526",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.3.3.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.3.4": {
+			"name": "brunch",
+			"version": "1.3.4",
+			"dependencies": {
+				"coffee-script": "1.3.x",
+				"argumentum": "0.6.x",
+				"chokidar": "0.3.x",
+				"async": "0.1.x",
+				"mkdirp": "0.3.x",
+				"ncp": "0.2.x",
+				"rimraf": "2.0.x",
+				"growl": "1.5.x",
+				"express": "2.5.x",
+				"date-utils": "1.2.x",
+				"ansi-color": "0.2.x",
+				"inflection": "1.2.x",
+				"mocha": "1.2.x"
+			},
+			"devDependencies": {},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "96f4bc3c024f27822ad056808c50448d53aa671c",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.3.4.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.4.0": {
+			"name": "brunch",
+			"version": "1.4.0",
+			"dependencies": {
+				"coffee-script": "~1.3.3",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.4.0",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.3",
+				"ncp": "~0.2.6",
+				"walk": "~2.2.1",
+				"rimraf": "~2.0.2",
+				"growl": "~1.5.1",
+				"express": "~2.5.11",
+				"date-utils": "~1.2.11",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.2",
+				"mocha": "~1.3.0",
+				"handlebars": "~1.0.6"
+			},
+			"devDependencies": {
+				"chai": "~1.1.1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "557f2849790567ad1d12fed26002a9bd25c7b3e8",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.4.0.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.4.1": {
+			"name": "brunch",
+			"version": "1.4.1",
+			"dependencies": {
+				"coffee-script": "~1.3.3",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.4.0",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.3",
+				"ncp": "~0.2.6",
+				"walk": "~2.2.1",
+				"growl": "~1.5.1",
+				"express": "~2.5.11",
+				"date-utils": "~1.2.11",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.2",
+				"mocha": "~1.3.2",
+				"handlebars": "~1.0.6"
+			},
+			"devDependencies": {
+				"chai": "~1.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "278d41376998891b0e1ceec202da6a56a6c0d65b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.4.1.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.4.2": {
+			"name": "brunch",
+			"version": "1.4.2",
+			"dependencies": {
+				"coffee-script": "~1.3.3",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.4.0",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.3",
+				"ncp": "~0.2.6",
+				"rimraf": "~2.0.2",
+				"walk": "~2.2.1",
+				"growl": "~1.5.1",
+				"express": "~2.5.11",
+				"date-utils": "~1.2.11",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.2",
+				"mocha": "~1.3.2",
+				"handlebars": "~1.0.6"
+			},
+			"devDependencies": {
+				"chai": "~1.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e6788a68677d60feffe425e7c75224d052089009",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.4.2.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.4.3": {
+			"name": "brunch",
+			"version": "1.4.3",
+			"dependencies": {
+				"coffee-script": "~1.3.3",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.4.0",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.4",
+				"ncp": "~0.2.6",
+				"rimraf": "~2.0.2",
+				"walk": "~2.2.1",
+				"growl": "~1.5.1",
+				"express": "~3.0.0rc4",
+				"date-utils": "~1.2.11",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.2",
+				"mocha": "~1.4.2",
+				"handlebars": "~1.0.6"
+			},
+			"devDependencies": {
+				"chai": "~1.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b665af4d446e88246b5de0d20936f8d1be772e0f",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.4.3.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.4.4": {
+			"name": "brunch",
+			"version": "1.4.4",
+			"dependencies": {
+				"coffee-script": "~1.3.3",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.4.0",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.4",
+				"ncp": "~0.2.6",
+				"rimraf": "~2.0.2",
+				"walk": "~2.2.1",
+				"growl": "~1.6.0",
+				"express": "~3.0.0rc4",
+				"date-utils": "~1.2.11",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.2",
+				"mocha": "~1.4.2",
+				"handlebars": "~1.0.6"
+			},
+			"devDependencies": {
+				"chai": "~1.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8cd2b6d95f0cdb6f9c8965c2187ed3386b877d44",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.4.4.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.4.5": {
+			"name": "brunch",
+			"version": "1.4.5",
+			"dependencies": {
+				"coffee-script": "~1.3.3",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.4.0",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.4",
+				"ncp": "~0.2.6",
+				"rimraf": "~2.0.2",
+				"walk": "~2.2.1",
+				"growl": "~1.6.0",
+				"express": "~3.0.0rc4",
+				"date-utils": "~1.2.11",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.2",
+				"mocha": "~1.4.2",
+				"handlebars": "~1.0.6"
+			},
+			"devDependencies": {
+				"chai": "~1.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b96767bfc0cd4a3d3cac7ca0de445a67736d5964",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.4.5.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.5.0": {
+			"name": "brunch",
+			"version": "1.5.0",
+			"dependencies": {
+				"coffee-script": "~1.4.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.5.0",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.4",
+				"ncp": "~0.2.6",
+				"rimraf": "~2.0.2",
+				"walk": "~2.2.1",
+				"growl": "~1.6.1",
+				"express": "~3.0.4",
+				"date-utils": "~1.2.12",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.3",
+				"mocha": "~1.7.4",
+				"handlebars": "~1.0.7",
+				"debug": "~0.7.0"
+			},
+			"devDependencies": {
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6ae4a0ea2166c004c9d06b0a77862e97ebb3c0e4",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.5.0.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.5.1": {
+			"name": "brunch",
+			"version": "1.5.1",
+			"dependencies": {
+				"coffee-script": "~1.4.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.5.1",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.4",
+				"ncp": "~0.2.6",
+				"rimraf": "~2.0.2",
+				"walk": "~2.2.1",
+				"growl": "~1.6.1",
+				"express": "~3.0.4",
+				"date-utils": "~1.2.12",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.3",
+				"mocha": "~1.7.4",
+				"handlebars": "~1.0.7",
+				"debug": "~0.7.0"
+			},
+			"devDependencies": {
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a6a31cede47d8816df56491f95fb389061ba52b1",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.5.1.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.5.2": {
+			"name": "brunch",
+			"version": "1.5.2",
+			"dependencies": {
+				"coffee-script": "~1.4.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.5.3",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.4",
+				"ncp": "~0.2.6",
+				"rimraf": "~2.0.2",
+				"walk": "~2.2.1",
+				"growl": "~1.6.1",
+				"express": "~3.0.4",
+				"date-utils": "~1.2.12",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.3",
+				"mocha": "~1.7.4",
+				"handlebars": "~1.0.7",
+				"debug": "~0.7.0"
+			},
+			"devDependencies": {
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1153b7f02c282aea52df84de9f344ea396edd7fb",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.5.2.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.5.3": {
+			"name": "brunch",
+			"version": "1.5.3",
+			"dependencies": {
+				"coffee-script": "~1.4.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.5.3",
+				"async": "~0.1.22",
+				"mkdirp": "~0.3.4",
+				"ncp": "~0.2.6",
+				"rimraf": "~2.0.2",
+				"walk": "~2.2.1",
+				"growl": "~1.6.1",
+				"express": "~3.0.4",
+				"date-utils": "~1.2.12",
+				"ansi-color": "~0.2.1",
+				"inflection": "~1.2.3",
+				"mocha": "~1.7.4",
+				"handlebars": "~1.0.7",
+				"debug": "~0.7.0"
+			},
+			"devDependencies": {
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fd94d9016078e90aa7b734fd44576c1cc65c373e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.5.3.tgz"
+			},
+			"engines": {
+				"node": "~0.6.10 || 0.8 || 0.9"
+			}
+		},
+		"1.5.4": {
+			"name": "brunch",
+			"version": "1.5.4",
+			"dependencies": {
+				"coffee-script": "~1.6.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.6.0",
+				"async": "~0.2.6",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"express": "~3.1.0",
+				"mocha": "~1.8.2",
+				"debug": "~0.7.0",
+				"init-skeleton": "~0.1.2",
+				"scaffolt": "~0.1.1",
+				"loggy": "~0.1.0",
+				"lodash": "~1.0.1"
+			},
+			"devDependencies": {
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2274620080722f9f2a51b83904e05a18ecf5ee60",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.5.4.tgz"
+			}
+		},
+		"1.6.0": {
+			"name": "brunch",
+			"version": "1.6.0",
+			"dependencies": {
+				"coffee-script": "~1.6.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.6.0",
+				"async": "~0.2.6",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"express": "~3.1.0",
+				"debug": "~0.7.0",
+				"init-skeleton": "~0.1.2",
+				"loggy": "~0.1.0",
+				"lodash": "~1.0.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.8.2",
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "03b2dd0e02443009ec330a717e3cf5d3af5d0d32",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.6.0.tgz"
+			}
+		},
+		"1.6.1": {
+			"name": "brunch",
+			"version": "1.6.1",
+			"dependencies": {
+				"coffee-script": "~1.6.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.6.0",
+				"async": "~0.2.6",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"express": "~3.1.0",
+				"debug": "~0.7.0",
+				"init-skeleton": "~0.1.2",
+				"loggy": "~0.1.0",
+				"lodash": "~1.0.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.8.2",
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4bc490d135238c42f1011c5746dfdbd64e42446f",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.6.1.tgz"
+			}
+		},
+		"1.6.2": {
+			"name": "brunch",
+			"version": "1.6.2",
+			"dependencies": {
+				"coffee-script": "~1.6.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.6.0",
+				"async": "~0.2.6",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"express": "~3.1.0",
+				"debug": "~0.7.0",
+				"init-skeleton": "~0.1.2",
+				"loggy": "~0.1.0",
+				"lodash": "~1.0.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.8.2",
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "01ccce4864528cc33b92e8c341969398efb83b0f",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.6.2.tgz"
+			}
+		},
+		"1.6.3": {
+			"name": "brunch",
+			"version": "1.6.3",
+			"dependencies": {
+				"coffee-script": "~1.6.0",
+				"argumentum": "~0.6.0",
+				"chokidar": "~0.6.0",
+				"async": "~0.2.6",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"express": "~3.1.0",
+				"debug": "~0.7.0",
+				"init-skeleton": "~0.1.2",
+				"loggy": "~0.1.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.8.2",
+				"chai": "~1.4.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f6ff36d6a47dedaf054dd97c415b80425bd82b67",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.6.3.tgz"
+			}
+		},
+		"1.6.4": {
+			"name": "brunch",
+			"version": "1.6.4",
+			"dependencies": {
+				"coffee-script": "~1.6.2",
+				"chokidar": "~0.6.2",
+				"commander": "~1.1.1",
+				"async": "~0.2.8",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"init-skeleton": "~0.1.3",
+				"loggy": "~0.1.0",
+				"pushserve": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.9.0",
+				"chai": "~1.5.0",
+				"express": "~3.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ddb5f0fb095a9eaafb8a97a4dea610c7675f9ad9",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.6.4.tgz"
+			}
+		},
+		"1.6.5": {
+			"name": "brunch",
+			"version": "1.6.5",
+			"dependencies": {
+				"coffee-script": "~1.6.2",
+				"chokidar": "~0.6.2",
+				"commander": "~1.1.1",
+				"async": "~0.2.8",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"init-skeleton": "~0.1.3",
+				"loggy": "~0.1.0",
+				"pushserve": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.9.0",
+				"chai": "~1.5.0",
+				"express": "~3.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cf910547759c00c54233347721aa30283658880a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.6.5.tgz"
+			}
+		},
+		"1.6.6": {
+			"name": "brunch",
+			"version": "1.6.6",
+			"dependencies": {
+				"coffee-script": "~1.6.2",
+				"chokidar": "~0.6.2",
+				"commander": "~1.1.1",
+				"async": "~0.2.8",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"init-skeleton": "~0.1.3",
+				"loggy": "~0.1.0",
+				"pushserve": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.9.0",
+				"chai": "~1.5.0",
+				"express": "~3.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "03925156394ccdbc11c63231d79f1e89e132a873",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.6.6.tgz"
+			}
+		},
+		"1.6.7": {
+			"name": "brunch",
+			"version": "1.6.7",
+			"dependencies": {
+				"coffee-script": "~1.6.2",
+				"chokidar": "~0.6.2",
+				"commander": "~1.1.1",
+				"async": "~0.2.8",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"init-skeleton": "~0.1.3",
+				"loggy": "~0.1.0",
+				"pushserve": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.9.0",
+				"chai": "~1.5.0",
+				"express": "~3.2.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "65302aef08327674d6e174047294da5d7d26fee7",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.6.7.tgz"
+			}
+		},
+		"1.7.0": {
+			"name": "brunch",
+			"version": "1.7.0",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e7e9e90e5c12646282239a1b1b5e361e3c7aec0d",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.0.tgz"
+			}
+		},
+		"1.7.1": {
+			"name": "brunch",
+			"version": "1.7.1",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d20c99d076d261bdb141b67e1af1517b8667e371",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.1.tgz"
+			}
+		},
+		"1.7.2": {
+			"name": "brunch",
+			"version": "1.7.2",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fffeb7f9c6d613e82de32b152bf010d0895a5d9f",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.2.tgz"
+			}
+		},
+		"1.7.3": {
+			"name": "brunch",
+			"version": "1.7.3",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6500858e1d9225d5b31339ae5c71b2653d03f9ed",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.3.tgz"
+			}
+		},
+		"1.7.4": {
+			"name": "brunch",
+			"version": "1.7.4",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "247274f6233b1a11352861bad84981e7edb7e20b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.4.tgz"
+			}
+		},
+		"1.7.5": {
+			"name": "brunch",
+			"version": "1.7.5",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6d3299c40154ed574cc087a637a110f2a8b62cf4",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.5.tgz"
+			}
+		},
+		"1.7.6": {
+			"name": "brunch",
+			"version": "1.7.6",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "26bc9e30c32a305492f27150719c23df96b7a4ec",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.6.tgz"
+			}
+		},
+		"1.7.7": {
+			"name": "brunch",
+			"version": "1.7.7",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c8aa196399bafa5683c224272128980bf5a8b9e6",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.7.tgz"
+			}
+		},
+		"1.7.8": {
+			"name": "brunch",
+			"version": "1.7.8",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3b29342d8238aba62bdbadc4ba6d50fffd7ac771",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.8.tgz"
+			}
+		},
+		"1.7.9": {
+			"name": "brunch",
+			"version": "1.7.9",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "06b09ae97da1d7a998f30ce408f590ebce18a070",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.9.tgz"
+			}
+		},
+		"1.7.10": {
+			"name": "brunch",
+			"version": "1.7.10",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "28e8a2cc8958b18a9d5221e6a931b7f7836b05ab",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.10.tgz"
+			}
+		},
+		"1.7.12": {
+			"name": "brunch",
+			"version": "1.7.12",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4517e6f40a50f90f448ffaa54561b07cef645fb0",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.12.tgz"
+			}
+		},
+		"1.7.13": {
+			"name": "brunch",
+			"version": "1.7.13",
+			"dependencies": {
+				"coffee-script": "~1.6.3",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.6.2",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.5.1",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1838908cde745035775f1499f9a7441c63a952b2",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.13.tgz"
+			}
+		},
+		"1.7.14": {
+			"name": "brunch",
+			"version": "1.7.14",
+			"dependencies": {
+				"coffee-script": "~1.7.1",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.26",
+				"chokidar": "~0.8.1",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.6.0",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"anysort": "~0.1.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "09d931f8122275e8c1a8e5bc0dc67df0b85c1477",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.14.tgz"
+			}
+		},
+		"1.7.15": {
+			"name": "brunch",
+			"version": "1.7.15",
+			"dependencies": {
+				"coffee-script": "~1.7.1",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.35",
+				"chokidar": "~0.8.1",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.6.0",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"anysort": "~0.1.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2abe5e3bd871c31e1f804d8f280c6799d56f8f87",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.15.tgz"
+			}
+		},
+		"1.7.16": {
+			"name": "brunch",
+			"version": "1.7.16",
+			"dependencies": {
+				"coffee-script": "~1.7.1",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.35",
+				"chokidar": "~0.8.1",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.6.0",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"anysort": "~0.1.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "992ede94f5c128b00a16e67e4f7f9a276aec1fbb",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.16.tgz"
+			}
+		},
+		"1.7.17": {
+			"name": "brunch",
+			"version": "1.7.17",
+			"dependencies": {
+				"coffee-script": "~1.8.0",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.35",
+				"chokidar": "~0.9.0",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.6.0",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"anysort": "~0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "070940f1c99e0a7e0f1ea25f07de95d75825ced5",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.17.tgz"
+			}
+		},
+		"1.7.18": {
+			"name": "brunch",
+			"version": "1.7.18",
+			"dependencies": {
+				"coffee-script": "~1.8.0",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.35",
+				"chokidar": "~0.10.1",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.6.0",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"anysort": "~0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3221253a1e115da7ea0b1e876835cd39b953c67a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.18.tgz"
+			}
+		},
+		"1.7.19": {
+			"name": "brunch",
+			"version": "1.7.19",
+			"dependencies": {
+				"coffee-script": "~1.8.0",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.35",
+				"chokidar": "~0.11.0",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.6.0",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"anysort": "~1.0.0",
+				"anymatch": "~1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "93ab81323015461cd59ca5969fc112079a4bb682",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.19.tgz"
+			}
+		},
+		"1.7.20": {
+			"name": "brunch",
+			"version": "1.7.20",
+			"dependencies": {
+				"coffee-script": "~1.8.0",
+				"commander": "~2.0.0",
+				"mkdirp": "~0.3.5",
+				"ncp": "~0.4.2",
+				"debug": "~0.7.2",
+				"source-map": "~0.1.35",
+				"chokidar": "~0.12.0",
+				"init-skeleton": "~0.2.0",
+				"loggy": "~0.2.0",
+				"pushserve": "~0.1.6",
+				"read-components": "~0.6.0",
+				"commonjs-require-definition": "~0.1.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"anysort": "~1.0.0",
+				"anymatch": "~1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0d755255b2bc695b14d45742a176c2b1fc9d88c6",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.7.20.tgz"
+			}
+		},
+		"1.8.0": {
+			"name": "brunch",
+			"version": "1.8.0",
+			"dependencies": {
+				"anymatch": "~1.1.0",
+				"anysort": "~1.0.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"chokidar": "~1.0.0",
+				"coffee-script": "~1.9.0",
+				"commander": "~2.7.1",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.1.1",
+				"deppack": "~0.0.8",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.4.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.3.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "795ec1ea0278f787ef1b6d1785c5ff969cb5bda1",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.8.0.tgz"
+			}
+		},
+		"1.8.1": {
+			"name": "brunch",
+			"version": "1.8.1",
+			"dependencies": {
+				"anymatch": "~1.1.0",
+				"anysort": "~1.0.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"chokidar": "~1.0.1",
+				"coffee-script": "~1.9.0",
+				"commander": "~2.7.1",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.1.1",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.4.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.3.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7e9a9b7800eac4f1bc81ca77f8ae8c9b9d53eb0b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.8.1.tgz"
+			}
+		},
+		"1.8.2": {
+			"name": "brunch",
+			"version": "1.8.2",
+			"dependencies": {
+				"anymatch": "~1.1.0",
+				"anysort": "~1.0.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"chokidar": "~1.0.1",
+				"coffee-script": "~1.9.0",
+				"commander": "~2.7.1",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.1.1",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.4.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.3.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ec69e72731f0b9ab1f8425b4e9ace639abbbc05e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.8.2.tgz"
+			}
+		},
+		"1.8.3": {
+			"name": "brunch",
+			"version": "1.8.3",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"chokidar": "~1.0.1",
+				"coffee-script": "~1.9.0",
+				"commander": "~2.7.1",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.1.1",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.4.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.3.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d0103b4799f09eabecdb8ca9dd65236b375badd6",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.8.3.tgz"
+			}
+		},
+		"1.8.4": {
+			"name": "brunch",
+			"version": "1.8.4",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"chokidar": "~1.0.1",
+				"coffee-script": "~1.9.0",
+				"commander": "~2.7.1",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.1.1",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.4.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.3.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "74837b83ae3bc4524b85833d5f6be492969a5f1b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.8.4.tgz"
+			}
+		},
+		"1.8.5": {
+			"name": "brunch",
+			"version": "1.8.5",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"async-each": "~0.1.2",
+				"async-waterfall": "~0.1.2",
+				"chokidar": "~1.0.1",
+				"coffee-script": "~1.9.0",
+				"commander": "~2.7.1",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.1.1",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.4.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.3.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~1.1.3",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "50e6536eee40159a3fa3b65c14e09bc83a47cc39",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-1.8.5.tgz"
+			}
+		},
+		"2.0.0": {
+			"name": "brunch",
+			"version": "2.0.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.1.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.8.1",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.6.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~2.4.0",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "964489591a0fcf9a2ac4fb58f9f68e9eb9b9d245",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.0.0.tgz"
+			}
+		},
+		"2.0.1": {
+			"name": "brunch",
+			"version": "2.0.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.3.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.8.1",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.6.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0",
+				"rewire": "~2.4.0",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d016c1aa7a2400578704b82d512b5473b67cc6e3",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.0.1.tgz"
+			}
+		},
+		"2.0.2": {
+			"name": "brunch",
+			"version": "2.0.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.8.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.6.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "~0.1.6",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"mocha": "~2.3.4",
+				"chai": "~3.4.1",
+				"rewire": "~2.5.0",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f5913bbfc80a947c59ebb39cd4f9890ff7e0a65b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.0.2.tgz"
+			}
+		},
+		"2.0.3": {
+			"name": "brunch",
+			"version": "2.0.3",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"mocha": "~2.3.4",
+				"chai": "~3.4.1",
+				"rewire": "~2.5.0",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "056a683c4e759a7cb1a2445d16ac208c3b496464",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.0.3.tgz"
+			}
+		},
+		"2.0.4": {
+			"name": "brunch",
+			"version": "2.0.4",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.1.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"mocha": "~2.3.4",
+				"chai": "~3.4.1",
+				"rewire": "~2.5.0",
+				"express": "~3.3.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b57bdc8af2620829b1324597b701614e0a56fab",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.0.4.tgz"
+			}
+		},
+		"2.1.0": {
+			"name": "brunch",
+			"version": "2.1.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"charm": "1.0.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.7.2",
+				"detective": "~4.0.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "36f2e9e802ffa7a3dde7866867d094a0f5fcb71f",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.1.1": {
+			"name": "brunch",
+			"version": "2.1.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"charm": "1.0.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.7.2",
+				"detective": "~4.0.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1f0f61e6d1f2dd594b4bbb0fdb3bfc9e15e115e7",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.1.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.1.2": {
+			"name": "brunch",
+			"version": "2.1.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"charm": "1.0.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.7.2",
+				"detective": "~4.0.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3d3730b98e601dd2aca1b1a8c28e47ee4014ea01",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.1.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.1.3": {
+			"name": "brunch",
+			"version": "2.1.3",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"charm": "1.0.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.7.2",
+				"detective": "~4.0.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f695d23db6dd192e3d01a980fe57d5542a3d89d1",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.1.3.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.2.0": {
+			"name": "brunch",
+			"version": "2.2.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.7.2",
+				"detective": "~4.0.0",
+				"glob": "~6.0.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "792e3a62a05027ce9fc2385d8d4324d54aec9289",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.2.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.2.1": {
+			"name": "brunch",
+			"version": "2.2.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.11.1",
+				"detective": "~4.0.0",
+				"glob": "~6.0.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7664e113062b2703bfc4ed597b5f68c9014b202b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.2.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.2.2": {
+			"name": "brunch",
+			"version": "2.2.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.11.1",
+				"detective": "~4.0.0",
+				"glob": "~6.0.0",
+				"node-browser-modules": "~0.1.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "99e4d9b7799a167ad0e8c53255ec43d7ba9d52dc",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.2.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.2.3": {
+			"name": "brunch",
+			"version": "2.2.3",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.11.1",
+				"detective": "~4.0.0",
+				"glob": "~6.0.0",
+				"node-browser-modules": "~0.1.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "473e1e01eb68273f02f03243803b0cf54493eaca",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.2.3.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.3.0": {
+			"name": "brunch",
+			"version": "2.3.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.7.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.11.1",
+				"detective": "~4.0.0",
+				"glob": "~6.0.0",
+				"node-browser-modules": "~0.1.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^1.10.3",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9907370f2a507f15a2414ac4ffaf5b197d6eb922",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.3.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.3.1": {
+			"name": "brunch",
+			"version": "2.3.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.8.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.11.1",
+				"detective": "~4.0.0",
+				"glob": "~6.0.0",
+				"node-browser-modules": "~0.1.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^2.0.0",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b1ed737d8c4430e97509b3950c8aee89f166ddd4",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.3.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.3.2": {
+			"name": "brunch",
+			"version": "2.3.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.2.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.8.0",
+				"loggy": "~0.2.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.11.1",
+				"detective": "~4.0.0",
+				"glob": "~6.0.0",
+				"node-browser-modules": "~0.1.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^2.0.0",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2b9dafe2fd2700e823bf23a4a05e4fac73266549",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.3.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0"
+			}
+		},
+		"2.4.0": {
+			"name": "brunch",
+			"version": "2.4.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.3.0",
+				"debug": "~2.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.8.0",
+				"loggy": "~0.3.0",
+				"mkdirp": "~0.5.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~0.1.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0",
+				"async-each": "~0.1.6",
+				"browser-resolve": "~1.11.1",
+				"detective": "~4.3.0",
+				"glob": "~6.0.0",
+				"node-browser-modules": "~0.1.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^2.0.0",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "106ad0ca5f003db52f2e3cbbfe1020e66fe90501",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.4.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.4.1": {
+			"name": "brunch",
+			"version": "2.4.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"async-each": "~1.0.0",
+				"browser-resolve": "~1.11.1",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.3.0",
+				"debug": "~2.2.0",
+				"detective": "~4.3.0",
+				"fcache": "~0.1.0",
+				"glob": "~7.0.0",
+				"init-skeleton": "~0.8.0",
+				"loggy": "~0.3.0",
+				"mkdirp": "~0.5.0",
+				"node-browser-modules": "~0.1.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^2.0.0",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "58b1c58ab6d61eca6027ca117bef14721e6a3bdf",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.4.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.4.2": {
+			"name": "brunch",
+			"version": "2.4.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"async-each": "~1.0.0",
+				"browser-resolve": "~1.11.1",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.3.0",
+				"debug": "~2.2.0",
+				"detective": "~4.3.0",
+				"fcache": "~0.1.0",
+				"glob": "~7.0.0",
+				"init-skeleton": "~0.8.0",
+				"loggy": "~0.3.0",
+				"mkdirp": "~0.5.0",
+				"node-browser-modules": "~0.1.0",
+				"pushserve": "^1.0.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.6.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"chai": "~3.4.1",
+				"eslint": "^2.0.0",
+				"express": "^4.13.0",
+				"mocha": "~2.3.4",
+				"rewire": "~2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "93472188d6bc08ce9d6ecdbdf0cc73f5a584e9b1",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.4.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.5.0-pre": {
+			"name": "brunch",
+			"version": "2.5.0-pre",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fe596c9b7620cf0b37c457f277ca734c4652e047",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.5.0-pre.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.5.0": {
+			"name": "brunch",
+			"version": "2.5.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e932ecb3fb11b1cf863f3dd38da2f9bf985ecb6",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.5.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.5.1": {
+			"name": "brunch",
+			"version": "2.5.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7126940def03b88af707d55487df60719f56389e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.5.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.5.2": {
+			"name": "brunch",
+			"version": "2.5.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1de3396ef9aa6750503490888a565c7ca0b565f4",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.5.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.5.3": {
+			"name": "brunch",
+			"version": "2.5.3",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "50a51fc4389ba04d5b930a0711a9603b9bf28f60",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.5.3.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.6.0": {
+			"name": "brunch",
+			"version": "2.6.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.2.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "709b75fc5d194e0df556790f9db7c0531f0ab8d2",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.6.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.6.1": {
+			"name": "brunch",
+			"version": "2.6.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.3.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "107944c0654b4f25e0f69ee219d87d132a0f6bf4",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.6.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.6.2": {
+			"name": "brunch",
+			"version": "2.6.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.3.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6a8e61c6da8b8523cf508befd7bb9465a88a678a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.6.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.6.3": {
+			"name": "brunch",
+			"version": "2.6.3",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.3.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7c5365974670217d40229e8feba24c7deb6e960c",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.6.3.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.6.4": {
+			"name": "brunch",
+			"version": "2.6.4",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.3.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a00fe4fc5ccf9b0808dcdf4ca950210caed14bf2",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.6.4.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.6.5": {
+			"name": "brunch",
+			"version": "2.6.5",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.3.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cce50fbf1cc63cab67758c4522ac0808459f527f",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.6.5.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.6.6": {
+			"name": "brunch",
+			"version": "2.6.6",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.4.1",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.3.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.13.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4253eac8fb47e5b6e03610c386bbe6470f8d38ca",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.6.6.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.7.1": {
+			"name": "brunch",
+			"version": "2.7.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.4.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "99815873aa928afcb924a7f03e6b4b0c080b2796",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.7.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.7.2": {
+			"name": "brunch",
+			"version": "2.7.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.4.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7b452427978797fd8dc0b400c4fde735ab3b2723",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.7.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.7.3": {
+			"name": "brunch",
+			"version": "2.7.3",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.4.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2da4a052b6fcdfb8c3f619ad35c43d6ddfb54ea2",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.7.3.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.7.4": {
+			"name": "brunch",
+			"version": "2.7.4",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.4.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.3",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "961b3de71fc6b2ecbbcf08b5f578595c0752749a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.7.4.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.7.5": {
+			"name": "brunch",
+			"version": "2.7.5",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.4.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.3",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"eslint": "^2.0.0",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a086269a14896966caee38c950f88b2c912b9c93",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.7.5.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.7.6": {
+			"name": "brunch",
+			"version": "2.7.6",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.5.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.3",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"babel-eslint": "^6.0.4",
+				"eslint": "^2.9.0",
+				"eslint-plugin-ava": "^2.3.1",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cee4cb070c53367f928d344605c6120a404dde0b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.7.6.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.7.7": {
+			"name": "brunch",
+			"version": "2.7.7",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "~1.4.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.5.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.3",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"babel-eslint": "^6.0.4",
+				"eslint": "^2.9.0",
+				"eslint-plugin-ava": "^2.3.1",
+				"rewire": "^2.5.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "34831e8f0f12d466a7002edf3dd778f524ec2208",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.7.7.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.8.0": {
+			"name": "brunch",
+			"version": "2.8.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "^1.5.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.6.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.3",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "github:avajs/ava",
+				"babel-eslint": "^6.0.4",
+				"eslint": "^2.9.0",
+				"eslint-plugin-ava": "github:avajs/eslint-plugin-ava",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "34761851ffa236907552b68df2730acc03698fc3",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.8.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.8.1": {
+			"name": "brunch",
+			"version": "2.8.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "^1.5.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.6.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.3",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "github:avajs/ava",
+				"babel-eslint": "^6.0.4",
+				"eslint": "^2.9.0",
+				"eslint-plugin-ava": "github:avajs/eslint-plugin-ava",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "91752b2f7bcda99f03080930684938155d30d5b2",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.8.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.8.2": {
+			"name": "brunch",
+			"version": "2.8.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~0.12.0",
+				"chokidar": "^1.5.0",
+				"coffee-script": "~1.10.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deep-assign": "^2.0.0",
+				"deppack": "~0.6.0",
+				"fcache": "~0.1.0",
+				"init-skeleton": "~0.9.0",
+				"skemata": "~0.1.0",
+				"loggy": "~0.3.3",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.1.0",
+				"source-map": "~0.5.0"
+			},
+			"devDependencies": {
+				"ava": "github:avajs/ava",
+				"babel-eslint": "^6.0.4",
+				"eslint": "^2.9.0",
+				"eslint-plugin-ava": "github:avajs/eslint-plugin-ava",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a79983cbec22ba17af4fb91e70907b8748bead8e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.8.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.9.0": {
+			"name": "brunch",
+			"version": "2.9.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6.0",
+				"coffee-script": "~1.11.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.6.3",
+				"fcache": "~0.2.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.3",
+				"micro-es7-shim": "^0.1.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.3.0",
+				"skemata": "~0.1.0",
+				"source-map": "~0.5.0",
+				"universal-path": "^0.1.0"
+			},
+			"devDependencies": {
+				"ava-no-babel": "~0.15.3",
+				"eslint": "^3.0.0",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3c70b115b1f73d088ad7dc7610bdb1d943111f55",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.9.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.9.1": {
+			"name": "brunch",
+			"version": "2.9.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6.0",
+				"coffee-script": "~1.11.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.6.3",
+				"fcache": "~0.2.0",
+				"init-skeleton": "~0.9.0",
+				"loggy": "~0.3.3",
+				"micro-es7-shim": "^0.1.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"quickly-copy-file": "~1.0.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.3.0",
+				"skemata": "~0.1.0",
+				"source-map": "~0.5.0",
+				"universal-path": "^0.1.0"
+			},
+			"devDependencies": {
+				"ava-no-babel": "~0.15.3",
+				"eslint": "^3.0.0",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b203656e726265ac29f38478d65a39dc9c02989b",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.9.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.0": {
+			"name": "brunch",
+			"version": "2.10.0",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6.0",
+				"coffee-script": "~1.11.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.7.0",
+				"deps-install": "~0.1.0",
+				"fcache": "~0.3.0",
+				"init-skeleton": "~1.0.0",
+				"loggy": "~0.3.3",
+				"micro-es7-shim": "^0.1.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.3.0",
+				"skemata": "~0.1.0",
+				"source-map": "~0.5.0",
+				"promise.prototype.finally": "^2",
+				"universal-path": "^0.1.0"
+			},
+			"devDependencies": {
+				"ava": "~0.17.0",
+				"eslint": "^3.0.0",
+				"eslint-config-brunch": "github:brunch/eslint-config-brunch",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0253377fb1fc1e944dcba1a7d7dda2bdc67189e3",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.0.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.1": {
+			"name": "brunch",
+			"version": "2.10.1",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6.0",
+				"coffee-script": "~1.11.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.7.0",
+				"deps-install": "~0.1.0",
+				"fcache": "~0.3.0",
+				"init-skeleton": "~1.0.0",
+				"loggy": "~0.3.3",
+				"micro-es7-shim": "^0.1.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.3.0",
+				"skemata": "~0.1.0",
+				"source-map": "~0.5.0",
+				"promise.prototype.finally": "^2",
+				"universal-path": "^0.1.0"
+			},
+			"devDependencies": {
+				"ava": "~0.17.0",
+				"eslint": "^3.0.0",
+				"eslint-config-brunch": "github:brunch/eslint-config-brunch",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "811dbd64c88bfeee028a9b6a82beddf79eb4570a",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.1.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.2": {
+			"name": "brunch",
+			"version": "2.10.2",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6.0",
+				"coffee-script": "~1.11.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.5.0",
+				"debug": "~2.2.0",
+				"deppack": "~0.7.0",
+				"deps-install": "~0.1.0",
+				"fcache": "~0.3.0",
+				"init-skeleton": "~1.0.0",
+				"loggy": "~0.3.3",
+				"micro-es7-shim": "^0.1.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.3.0",
+				"skemata": "~0.1.0",
+				"source-map": "~0.5.0",
+				"promise.prototype.finally": "^2",
+				"universal-path": "^0.1.0"
+			},
+			"devDependencies": {
+				"ava": "~0.17.0",
+				"eslint": "^3.0.0",
+				"eslint-config-brunch": "github:brunch/eslint-config-brunch",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "090bd26c9c8237c6a34a0fb57e348a578c721963",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.2.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.3": {
+			"name": "brunch",
+			"version": "2.10.3",
+			"dependencies": {
+				"anymatch": "~1.3.0",
+				"anysort": "~1.0.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6.0",
+				"coffee-script": "~1.11.0",
+				"commander": "~2.9.0",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2.0",
+				"deppack": "~0.7.0",
+				"deps-install": "~0.1.0",
+				"fcache": "~0.3.0",
+				"init-skeleton": "~1.0.0",
+				"loggy": "~0.3.3",
+				"micro-es7-shim": "^0.1.0",
+				"micro-promisify": "~0.1.0",
+				"mkdirp": "~0.5.0",
+				"read-components": "~0.7.0",
+				"serve-brunch": "~0.1.0",
+				"since-app-start": "~0.3.0",
+				"skemata": "~0.1.0",
+				"source-map": "~0.5.0",
+				"promise.prototype.finally": "^2",
+				"universal-path": "^0.1.0"
+			},
+			"devDependencies": {
+				"ava": "~0.17.0",
+				"eslint": "^3.0.0",
+				"eslint-config-brunch": "github:brunch/eslint-config-brunch",
+				"fixturify": "^0.2.0",
+				"fs-extra": "^0.30.0",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5.0",
+				"test-console": "^1.0.0"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "34a10057e2f2f2d08a52523d739aa9b0a368f1b3",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.3.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.4": {
+			"name": "brunch",
+			"version": "2.10.4",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.11",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.1",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"promise.prototype.finally": "^2",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3a0c17b44aa8fef82fc4c1e8895198dbadbeaeab",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.4.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.5": {
+			"name": "brunch",
+			"version": "2.10.5",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.11",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.1",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"promise.prototype.finally": "^2",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4a611992f51793f3583d62bd17888ab82fcbb8d4",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.5.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.6": {
+			"name": "brunch",
+			"version": "2.10.6",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.11",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"promise.prototype.finally": "^2",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "da4606b7de027bb6aa98e9e89129ea368c0d24f7",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.6.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.7": {
+			"name": "brunch",
+			"version": "2.10.7",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.11",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"promise.prototype.finally": "^2",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "55d638a83ee86cbce8e0eca50489c5e5c70008c8",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.7.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.8": {
+			"name": "brunch",
+			"version": "2.10.8",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.11",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.2",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2c6f213e90e97ac3c5333eef60316bff3be0b675",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.8.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.9": {
+			"name": "brunch",
+			"version": "2.10.9",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.11",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.2",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a74bb5aef87fa87ce0dd4ca4f996610204358d30",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.9.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.10": {
+			"name": "brunch",
+			"version": "2.10.10",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.12.7",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.2",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-5fUeIoPSau/kMjuy+hNBbG8jDgPem4NafnpkQ6U8CTnUe2CM9ZejJZel1lGlQgsOd/d8dXCn8ksD0ZowlexpXg==",
+				"shasum": "89d14bfbd7ca0c2e326167c2625ce1d4c937d4f8",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.10.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.11": {
+			"name": "brunch",
+			"version": "2.10.11",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.12.7",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.2",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-vGUmuYS653fs5hXhQsE495oUENYFF6CfuqLQOKqe0QHKHddM0zHG1I4mdWehGYpu6o1ojeP0UIIlcUjf9pes1g==",
+				"shasum": "d971d598e26734a8651430e8a165111ae7fbeac5",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.11.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.12": {
+			"name": "brunch",
+			"version": "2.10.12",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^1.6",
+				"coffee-script": "~1.12.7",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.2",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-6tm4aSYiBkkHjDWXXlnu58wxRUeTcTaEG0jFTQBEp7gx/t61M8ynfG2RTxd9lhiAkDZJ2brNIuhy3MThFy2a7A==",
+				"shasum": "3aa0c515c216beb2e53a0c35a30546d0a04cee50",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.12.tgz"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.13": {
+			"name": "brunch",
+			"version": "2.10.13",
+			"dependencies": {
+				"anymatch": "~1.3",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^2",
+				"coffeescript": "~1.12.7",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"debug": "~2.2",
+				"deppack": "~0.7",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.2",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^6.4.2",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-4YDPahbVMrtPnANCsdZ1SlZYXC2sAwylZTbTBGCnczpWMidw2bNbJ0o1BCCWLZluVm2JajZV+YeksDRZkmA2Xg==",
+				"shasum": "39098a73bf9b11faa06d742339f7f62f426b9564",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.13.tgz",
+				"fileCount": 30,
+				"unpackedSize": 153611,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbYXnrCRA9TVsSAnZWagAAhzYP/j0nC0Aqavbi6xUvDBYS\nSHtP9cSjOlrM2hR69jKbYbPXiLfHOaIbgXaRsqwuRsh8gApw0vDDXwTjrDR7\ncd3EAhVIUFJBZiaStxDUiywIDNFMYRVWMkMSSwK3wiDmuCl33+PagN4bks+j\nnHLCfpPZPuryALf4TzSq1gtB9IzjdA7oCDdAlgjClPUChkvh0nHIpcGNQlcK\nm1cI+g5JAPvrPibzo5vXRsumbljtzD7PypDMVIovyUb0LGCpljH0BC+JBlei\n29jvHQA8yYiYDxRFI7Mm/B25hWRw18TkRBsOFcC+vACcx7JdkNj8vjlUg/VB\nnF9RdIlnh4oRuFFJ07LJBZohRqA/v79whMXHWZTfNjxZWL5cO6+g2TvIas9z\nN4894P8korJDF5c/XzkywkrYQ+NHye3FEk2gD2OVH31rO1E3kajXnBbPwKvd\nnjUaOz1PD6Cj8yKFQNSkXwnhwZmON5q/MXKohpVoaCNa5sFTkMexnBuP3yzr\nUiQry9RA85Ma0J8ax/yPudIbQWC6JHqn7lIh/Ra6+PIu8u3wB/9MvucFI0Xr\n707XY+H3oTzjAnbKAjTFm6pxCCC1RuyHhBzJyoUUNEMR/rJb3STkwTexZKJh\npICkz7xXqwlGiAMdZ8TRkaso6kZkfpYoZD5Tme7TkhaqR2S0YPIQawodv2MF\n5rk1\r\n=Ueq0\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.14": {
+			"name": "brunch",
+			"version": "2.10.14",
+			"dependencies": {
+				"anymatch": "^2.0",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^2",
+				"coffeescript": "~1.12.7",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"deppack": "~0.7",
+				"debug": "^3.1.0",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.3",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^13.0.0",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-/X09EalxPEA0RyNy4UUbVys5IeiujWJPwwITRp6S2I3V1hybD/oM4oDTXGQ2Fs1vVp+H2M1fQY6Eo7WgmApD2Q==",
+				"shasum": "22d1799ba2e07800b4774a24a61bdc161321d41f",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.14.tgz",
+				"fileCount": 30,
+				"unpackedSize": 153614,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbYXvvCRA9TVsSAnZWagAA1R8P/RhPZMzD+V37Ge0t86jq\nu+P7sifRnMuKHROv5IOX5QEbEwTMLX87xtubLQ2MXJRO70bswb+LfBohPsum\n8SwgeOa4rGCdOaxHEDnNmNuBek8ZEhNWjBBCHEVFT76nAEpYx2w6Gyp/qjkz\nozOCpEkJ37kxVVx/kfGCmJurB9h+wDCxzIn7eqRL+jHDlbWPUwUyltOCbTGP\n6s6nQQJa6j5/fG3Sh6SRuJK63MZifUfIwftjUCrfBJEX5B/Bkg2h+uKaOFE/\n+GXm1amQ9/nRxsVOz9lmc1ZBgC+eNXsEQ7jYWdNzns6AuA+UHP10sGkD3V5q\nZURT54Ln3HCvX/aq+M7QSwryOK9Akzu+w5QjtuEjYoU+epjmRFv+l4aFUk8Y\nFORpmcnvLY6fuRqWV5XD/5y9Pkc0+Zo6t37sCbOe6x0PIMlDzjp2H4IyYwlr\n+xv5+i4BT5y8g5hqZ5i+DGtZB18rFPXBMV1KRNUdwxLGdBemnQnpub+AvpZr\nW46Pf1jQzh2NQnMiGw9PtOae0xvGMgDL6/ohBeY0Op/wTOlG1zOwQP4ZvGuY\nV8PyFIePNorfX36IY5sM1u48oU7zPMnWyB6X7ABxsGvenJu6JrGZ+qSHNfhx\nMTyxkqvfPOzNIJqYD9b7z0djvoYJGzi65f9mFygDFrRvN6O5/ZpaLKonoEO1\nvjr2\r\n=tRSS\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.15": {
+			"name": "brunch",
+			"version": "2.10.15",
+			"dependencies": {
+				"anymatch": "^2.0",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^2",
+				"coffeescript": "~1.12.7",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"deppack": "~0.8",
+				"debug": "^3.1.0",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.3",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^13.0.0",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-KzQW4ss19lk3Zv8a/sWgFuxrashuhkuzLtkF9QL5ks8G4qqATKaiThTb9qmnKCcoXC6vIC/90Iy2uZA5YRxk6g==",
+				"shasum": "f42ab3434f8e725c9cb2ac1e98b03b6e30ef3649",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.15.tgz",
+				"fileCount": 30,
+				"unpackedSize": 153614,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbYX5rCRA9TVsSAnZWagAA6RgP/iylwxftdQbFSrV7urB5\nvtF9AR5hxrh7MJpiCxgicNh/FXM2o3PyivT/COZ//eX5ycA+mUWzSSoBexQJ\nkIiR+BVHLdPaKHlFDio8AANJhMBDgc+Z2di0gaURuuHPVcgLql19hIo5pA+l\n1lgT+cSwkEnqit/9RD2OcjmbPwDcqrLf/YuTm1VSM3+3WkwV++9bg+batMUC\ny6Bs9WOLIc9cZqhm9EVFS0+Nq2cRbAUxRNt65XUtwPs+Oo2/fse31Q0TgypS\n0Njy9aHrh87+tfXBqU9mXcldXjY+3ErEpd1mR+244PNobt12Gm8jcBD27pj9\nZCHjgQhTTudetAK9qhS+srVJ7YMyPoWMSPMrxfnPGxn1wHuA5uyS5a/zdwFw\n9hVP/vljaDCi1vaZGkqPoo4mP4TJIhdxCCQiCpkH3vqHT9vOfzSc21eTHIlL\nD6gKKCdXYJ7qMgEHqoc5WUpfTuoir/FTDKB8WKe5Y2AjgsSxPuTL7XJctZP9\nm0SGQxOXS1iCjoq5KtiCQuKWlBUNe/EtGGMUu8eiyoG1mZbg2DboUFy19A50\nveUlY6nMFjgcLRdk1v9dF5sviFIA/SJP3WOOrhpj9ob5ZBK/vfkAW4H6gvDq\n7zktdPCDHMlMjWhsd8E3y6id78SZPoY0O75A1TPpZoDXwwS/ZYurZymRyy0x\npd8s\r\n=fmF5\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.16": {
+			"name": "brunch",
+			"version": "2.10.16",
+			"dependencies": {
+				"anymatch": "^2.0",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^2",
+				"coffeescript": "~1.12.7",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"deppack": "~0.8",
+				"debug": "^3.1.0",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.3",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^13.0.0",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-c/n6NPrLSkVvcH/4Crtzx/eNCvmACFzBofCKTOfo/QFLK2vBlantkI9HG73RyhaWjgkSBbBS/x3JO4ENr3jOxg==",
+				"shasum": "766434918a278ed5e302fd8346e6c2e2e30b0b11",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.16.tgz",
+				"fileCount": 30,
+				"unpackedSize": 153680,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbaBmeCRA9TVsSAnZWagAApDQP/iT6N6nAbrZXhaQB5ESZ\n9uI4+RyUmvS/sKNIjfKKbDRqIpV6Q0kGZ5J3zk8gubbNI1rhU1YR3dYL9aFC\nMpwr4uRX3WGjionmfF/ykY2DJlxiyZZUDXEAmaiorAzN0Qze+3iqpJzM63Ds\nrSnrx3noXhE9LO72gyb0GAv3J8bYwdTfMH/R+Dc6YTQv8F0E4MM1w7+lw77+\nf+EK2lyw+e7Q2eDFSNxEh4Taso2QaF6EFq/z0CGfERflhlgT/zMbDztussgr\nUnL+N00pySs8+PhOFFf+Z8zve6pl81BvGpvgqNLxuUpXhAhlWNH+uz2vYUJ7\nFj1NmBi0+KlSJ9trkLU+aTfzFI/u04Se/dXTEHJU9AKWgS5f7qfIoUX4s2ut\nEHy/xR7SsO3G1+2CsPnN7wwLmOuq3RIiwimfbsQZSnXXIVWoHIiMpX3aN/RY\n29stTSfLWga5CqGGrE0C7iXt1NJm7fkSurXyGniMwpAiZ8NCi7/brFvQtFqj\nyZMNRuL65b3Q13AWxdLstvaNjGAgblQJOxj6cqOUx3OzXFTtO0Ckp8QoPPZS\nLWIp05GDU0M5/ttHh3yp1AdyKL5aDtOgWG2thwJOWrlw/urY1JgClVwnDbS8\n7fMFrvyo3IDloIsM5Ojvlfi9ZhWfcIXIDwM0Y8+yb+JdZGTWHSN4BkusJmLh\noRI+\r\n=F47c\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		},
+		"2.10.17": {
+			"name": "brunch",
+			"version": "2.10.17",
+			"dependencies": {
+				"anymatch": "^2.0",
+				"anysort": "~1.0",
+				"check-dependencies": "~1.0.1",
+				"chokidar": "^2",
+				"coffeescript": "~1.12.7",
+				"commander": "~2.9",
+				"commonjs-require-definition": "~0.6.2",
+				"deppack": "~0.8",
+				"debug": "^3.1.0",
+				"deps-install": "~0.1",
+				"fcache": "~0.3",
+				"init-skeleton": "~1.0",
+				"loggy": "~1.0.3",
+				"micro-es7-shim": "^0.1",
+				"micro-promisify": "~0.1",
+				"mkdirp": "~0.5",
+				"promise.prototype.finally": "^2",
+				"read-components": "~0.7",
+				"serve-brunch": "~0.2",
+				"since-app-start": "~0.3",
+				"skemata": "~0.1",
+				"source-map": "~0.5",
+				"universal-path": "^0.1"
+			},
+			"devDependencies": {
+				"ava": "~0.16",
+				"eslint": "^3",
+				"eslint-config-brunch": "^1",
+				"fixturify": "^0.2",
+				"fs-extra": "^0.30",
+				"nyc": "^13.0.0",
+				"rewire": "^2.5",
+				"test-console": "^1"
+			},
+			"bin": {
+				"brunch": "./bin/brunch"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-q3vkWORHYXwPd9gG1VMq23An6C0+Gywdvho/9PfbrsrpnmBaTNk50R/ES/Pz+6gUqTzFAssbLoJv1DOiPbblhQ==",
+				"shasum": "f85fd02826c4078b04881d4537e5d817a817a04e",
+				"tarball": "https://registry.npmjs.org/brunch/-/brunch-2.10.17.tgz",
+				"fileCount": 30,
+				"unpackedSize": 153734,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbjTp9CRA9TVsSAnZWagAAvGgQAKItnuZ0QIRD2l1Ph1MS\nQZ3AS4JXchcpuIjGMNubeJeBzlv8Zdpp2oeyPj/9IVkROhK2fqr/xO8BZcUp\nxTDN9BxklF/THFxzt2q1BmH9U6ilS24wDDNjrce9fChiW/exZWkyswDPSRbT\nKzrAVteYf/I7L9SaIaMiDcfOtRaFRY5K6JlGrmxjFIWLus3R1SeyaOvvQtGv\n9zhOpD4ZK4QFGNgO4pIy6dWxIy7w2UWTlaV/FM/Aqf2yVOzrSA6vg9iqWxwg\n2ImIPhEYEJ5Hu67OTTMP5eSUmPlq7cE3gtq2kI2sENyMxjHJxvW4TI2JiIzr\nf+O/sJwAlM5NzefkskiPnBTffM5Qy98AqSMVESVYJ7a9HwSwfvOBnGWi3C01\nW3tmjDORwrk8HOcgDDkFpjz7JmqpTFDvTGrCzXJ51BLFtCejgm8CsgrlwaM3\nBsBy5NAZh+u99+U8GVPlPuGzy6yo1sH8/UZ+r82EqQItwnL+twKx02JvmGtj\nUrEMLZcoUl05QBnqqImHvBKZYMDcZ+VuZUiVjCubeXL5b/toeegFkQS8gchz\nQ6OlxX86GzKup6/0A3MAFs8c09wf5GrbCsMSpQ4BqXZK2yMKMENU9yHkw7AQ\nKYzIb1EtS3UdYMBlZjVxsYMLWq3ohPPzo3wNTrrhV0kyIPENA36EfRBvym0e\nk7Hs\r\n=LW8i\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"engines": {
+				"node": ">= 4.0",
+				"npm": ">= 3.0"
+			}
+		}
+	},
+	"name": "brunch",
+	"dist-tags": {
+		"latest": "2.10.17"
+	},
+	"modified": "2019-01-01T10:56:48.775Z",
+	"cachedAt": 1574943450164
+}

@@ -1,0 +1,263 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "read-components",
+			"version": "0.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "~1.10.0",
+				"chai": "~1.6.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "0a41901f66181c8823cc51af8bb90d5ec836d571",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.1.0.tgz"
+			}
+		},
+		"0.2.0": {
+			"name": "read-components",
+			"version": "0.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "~1.10.0",
+				"chai": "~1.6.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "74f332300bd8293a149ef6ae712c9c85596bae36",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.2.0.tgz"
+			}
+		},
+		"0.2.1": {
+			"name": "read-components",
+			"version": "0.2.1",
+			"dependencies": {
+				"async-each": "~0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.10.0",
+				"chai": "~1.6.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "db8877b168b4492a1d0f71db626cd17c51531c13",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.2.1.tgz"
+			}
+		},
+		"0.3.0": {
+			"name": "read-components",
+			"version": "0.3.0",
+			"dependencies": {
+				"async-each": "~0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.10.0",
+				"chai": "~1.6.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "f865c5a9452d1a54229b3a51a9a3a75a8b3767ef",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.3.0.tgz"
+			}
+		},
+		"0.4.0": {
+			"name": "read-components",
+			"version": "0.4.0",
+			"dependencies": {
+				"async-each": "~0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "32f51c6b18ce8a566ef4add8670808c0b39294f9",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.4.0.tgz"
+			}
+		},
+		"0.4.1": {
+			"name": "read-components",
+			"version": "0.4.1",
+			"dependencies": {
+				"async-each": "~0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "edc40c9230b526a4171bc46961821c3b7afd6826",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.4.1.tgz"
+			}
+		},
+		"0.4.2": {
+			"name": "read-components",
+			"version": "0.4.2",
+			"dependencies": {
+				"async-each": "~0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "d85d1ac16e4a5bd519dbcef79a2a00df2c221b9a",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.4.2.tgz"
+			}
+		},
+		"0.5.0": {
+			"name": "read-components",
+			"version": "0.5.0",
+			"dependencies": {
+				"async-each": "~0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "11a888649d0fa8d725ad6c35e04d91959b42c421",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.5.0.tgz"
+			}
+		},
+		"0.5.1": {
+			"name": "read-components",
+			"version": "0.5.1",
+			"dependencies": {
+				"async-each": "~0.1.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "a302bc482b28510d430c689d59e660c28bcde773",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.5.1.tgz"
+			}
+		},
+		"0.5.2": {
+			"name": "read-components",
+			"version": "0.5.2",
+			"dependencies": {
+				"async-each": "~0.1.3"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "1547530180f27c8b990691ad3ac270689f224c1b",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.5.2.tgz"
+			}
+		},
+		"0.5.3": {
+			"name": "read-components",
+			"version": "0.5.3",
+			"dependencies": {
+				"async-each": "~0.1.3"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "c1d7c11c00499059d10ca3cd8cc6a0106b87c2cd",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.5.3.tgz"
+			}
+		},
+		"0.5.4": {
+			"name": "read-components",
+			"version": "0.5.4",
+			"dependencies": {
+				"async-each": "~0.1.3"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "4bacd529aafb471165c4e0622e5d6482a9dee57f",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.5.4.tgz"
+			}
+		},
+		"0.6.0": {
+			"name": "read-components",
+			"version": "0.6.0",
+			"dependencies": {
+				"async-each": "~0.1.3",
+				"component-builder": "~0.10.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "25c7e54463feed2b36f57dd960c00651ec92ba4c",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.6.0.tgz"
+			}
+		},
+		"0.6.1": {
+			"name": "read-components",
+			"version": "0.6.1",
+			"dependencies": {
+				"async-each": "~0.1.3",
+				"component-builder": "~0.10.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "45752f1c7c7e450742f4085fe6e24fccc5c75720",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.6.1.tgz"
+			}
+		},
+		"0.7.0": {
+			"name": "read-components",
+			"version": "0.7.0",
+			"dependencies": {
+				"async-each": "~1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "~1.12.0",
+				"chai": "~1.7.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "77dce7adcb72a514240c47a675b9bcf7a3509dd9",
+				"tarball": "https://registry.npmjs.org/read-components/-/read-components-0.7.0.tgz"
+			}
+		}
+	},
+	"name": "read-components",
+	"dist-tags": {
+		"latest": "0.7.0"
+	},
+	"modified": "2016-02-23T00:00:04.880Z",
+	"cachedAt": 1574943451686
+}

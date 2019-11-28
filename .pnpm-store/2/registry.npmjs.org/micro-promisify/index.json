@@ -1,0 +1,36 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "micro-promisify",
+			"version": "0.1.0",
+			"devDependencies": {
+				"ava": "^0.13.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "01137dae74c932d999178602e03ebba1171102db",
+				"tarball": "https://registry.npmjs.org/micro-promisify/-/micro-promisify-0.1.0.tgz"
+			}
+		},
+		"0.1.1": {
+			"name": "micro-promisify",
+			"version": "0.1.1",
+			"devDependencies": {
+				"ava": "^0.13.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "071da590b4956560dedf4aae7044729c1a28902d",
+				"tarball": "https://registry.npmjs.org/micro-promisify/-/micro-promisify-0.1.1.tgz"
+			}
+		}
+	},
+	"name": "micro-promisify",
+	"dist-tags": {
+		"latest": "0.1.1"
+	},
+	"modified": "2016-03-13T17:13:19.266Z",
+	"cachedAt": 1574943451643
+}

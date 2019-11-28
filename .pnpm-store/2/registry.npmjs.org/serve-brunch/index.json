@@ -1,0 +1,89 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "serve-brunch",
+			"version": "0.1.0",
+			"dependencies": {
+				"debug": "^2.2.0",
+				"loggy": "^0.3.1",
+				"pushserve": "^1.0.2"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "99ebe5e67d449bed50011434c26c74f40407c31b",
+				"tarball": "https://registry.npmjs.org/serve-brunch/-/serve-brunch-0.1.0.tgz"
+			}
+		},
+		"0.1.1": {
+			"name": "serve-brunch",
+			"version": "0.1.1",
+			"dependencies": {
+				"debug": "^2.2.0",
+				"loggy": "^0.3.5",
+				"pushserve": "^1.0.2"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "1998ff67901acd860fd2249369df54bffc1e8ede",
+				"tarball": "https://registry.npmjs.org/serve-brunch/-/serve-brunch-0.1.1.tgz"
+			}
+		},
+		"0.1.2": {
+			"name": "serve-brunch",
+			"version": "0.1.2",
+			"dependencies": {
+				"debug": "^2.2.0",
+				"loggy": "^0.3.5",
+				"pushserve": "^1.0.2"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "179e713748fba93e650892d25788228d336bdc3c",
+				"tarball": "https://registry.npmjs.org/serve-brunch/-/serve-brunch-0.1.2.tgz"
+			}
+		},
+		"0.2.0": {
+			"name": "serve-brunch",
+			"version": "0.2.0",
+			"dependencies": {
+				"debug": "^2.2",
+				"loggy": "^1",
+				"pushserve": "^1"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "2f9b750ba898983ef0838b94e38ea4eed88e3c55",
+				"tarball": "https://registry.npmjs.org/serve-brunch/-/serve-brunch-0.2.0.tgz"
+			}
+		},
+		"0.2.1": {
+			"name": "serve-brunch",
+			"version": "0.2.1",
+			"dependencies": {
+				"debug": "^3.1",
+				"loggy": "^1",
+				"pushserve": "^1"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-6KNNdVC2oDvGueSIixbp8vFKg6EJZZfX3Tc9qaI88Bn6m0tg5olxf5yN/0wfILHnDXtiADKmgUheYLzKyqbLhw==",
+				"shasum": "f1727bd700a1d987076cc2e83a5f16a13b8889d8",
+				"tarball": "https://registry.npmjs.org/serve-brunch/-/serve-brunch-0.2.1.tgz",
+				"fileCount": 3,
+				"unpackedSize": 5165,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbYX11CRA9TVsSAnZWagAAjRMP/jRaL0UdXcKNAdjuXYqg\n9eVnxwtgGTVB7yo75+5XwMWJFyPoM2ACQfRmKoS88FQdEhA1BakXPDbF3AVl\n9OeIayxgwFcK8GzmIdY+hD28jcqo/WE0g1TTq3cT+I/jjOVGli0AVRl/jbX2\nS0ytgph8HPywX3liVFklOltScaS35jTZkpKw6BUqx1cTWKOvSgTfdEgXZA4M\nm7ukQL5cZvSF/f+ICSi7ySSn7mswwD9fc3idLVZ70BpUJcJXJ6rRQiVKsmnQ\ncEYAXgDclziKQClbxzmDVsP1Vu5qNBQxwdhKKzyXaKUMlu3F/bGw4J+Ed/jU\nCoWvQ9thTjEo4b++b+IOV4cphG7Tk7Cf4E46Fk+0zIEldyOgnvlovjX8P732\n8P+8UsafWkCZlnwGbIanL9isU976REtZ2ZPMmP2KHoNVLzzQmDitR605NKMo\nBLb+CLWhtAZAtW384zNkUwiaCyzf5yrD1iDYAAyI4pktS617FYlfLcYZH89n\npLiah9cngu6Uj/gyJPkoLTL727UtFEpX4VcJpo6eRkMEkrnUpDXnM9pK7R+K\nFopEsUXk7u20taNDrs9bZZugAY53zrWvW/5B95mbjiXvN0xNvLtSiZJr43gp\nITF5K8WORn0DDztru6QiE9No4RxluGJvXM4t9EDMjcKxhSDq29JsfJfNL1R/\n/UJI\r\n=8coE\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		}
+	},
+	"name": "serve-brunch",
+	"dist-tags": {
+		"latest": "0.2.1"
+	},
+	"modified": "2018-08-01T09:29:28.839Z",
+	"cachedAt": 1574943451304
+}

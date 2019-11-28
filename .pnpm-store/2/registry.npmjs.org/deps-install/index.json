@@ -1,0 +1,81 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "deps-install",
+			"version": "0.1.0",
+			"dependencies": {
+				"loggy": "~0.3.5",
+				"micro-promisify": "~0.1.0"
+			},
+			"devDependencies": {
+				"eslint": "^3.0.0",
+				"eslint-config-brunch": "github:brunch/eslint-config-brunch"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "383a22cd8a5106067c25e0a6f412c0e297005d9a",
+				"tarball": "https://registry.npmjs.org/deps-install/-/deps-install-0.1.0.tgz"
+			}
+		},
+		"0.1.1": {
+			"name": "deps-install",
+			"version": "0.1.1",
+			"dependencies": {
+				"loggy": "^1",
+				"micro-promisify": "~0.1.0"
+			},
+			"devDependencies": {
+				"eslint": "^3.0.0",
+				"eslint-config-brunch": "github:brunch/eslint-config-brunch"
+			},
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-jWfJiF0TZ4DgMcx6TIshx/slF6MexjHxik6iGlAx89z5cxHHtF/zt9c9UOC41PJX5kkJhlpXdU9msTq4K1v4Qg==",
+				"shasum": "324af2e617ac04fb7ef4be7d6099ea3a102f6119",
+				"tarball": "https://registry.npmjs.org/deps-install/-/deps-install-0.1.1.tgz"
+			}
+		},
+		"0.2.0": {
+			"name": "deps-install",
+			"version": "0.2.0",
+			"dependencies": {
+				"readdirp": "^3.2.0",
+				"semver": "^6.3.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-tnmblemYgjnnpXYy7VQgdA6KG+CNlvw182E4lJg7wixzBwFKn74m6ZLqmpqYLClpjbH3FkymSLsnOUhHJLz/8A==",
+				"shasum": "dfb829fa31ecd852006b114cc275ff66149ca4b7",
+				"tarball": "https://registry.npmjs.org/deps-install/-/deps-install-0.2.0.tgz",
+				"fileCount": 4,
+				"unpackedSize": 6013,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdxvh4CRA9TVsSAnZWagAA0kMP/0v5Rg6SWaIAND9ie+j2\nAHmIZgJfF58/I2KAhWKkr+aJ+L14pWTSfmjIsIOrq+rKc0dQNGKx0dfmnZRj\nSiSj6VSG8DCuRBUIMx9hKwDuErzd9Fi80wkMTYN09MbQIqsMr9OR/SLwAXij\nm/H2EABDThNB9tQQXLxF5ANpwsRvYlpzKhpSoFE7pxLNqhXMPonctB15yz9H\nXFXmPNWbxzgNLNCd8SmzcyT+T8cRp7HbJ2f8ZlU/+vDneZQZYAHTB3d7Yx+Z\nZl6Txg2IpB1WhFQpRPweXDpfMTyMHuvrzEBQAdP1rRJwbzw+lSr4OSY2cmoT\n20kHeKlp+MWyYRMcBIWeqeWMltQCrk9OU11JLEbHvxAvFLVp8onDIUVESE8u\n7ZVoEooPzvnPetyScworgAEsQ+BIejCfEOhnp43dSmKs7uCt9dEgX2cxjcFe\n6qa31b0ROQ/nAKvDG0U4rRs4YMD+JrQtPWyr4PcU3gSGBcNqVHZOTcQg/KW4\nPweNEVfQOL17LYFMy5U4kFoRujbQOGr9jwLO/tbmJvusWFx80IhHlAeJo7Ns\ntmA8og5K05mecicc4J1kxEBZp4PLjeH0HMP6BZMrJKLhg2yDngXAvnT+WkIh\ncmmwhj/BY2jChKIliFZxbZFviuK4niyvgx34QD1M/gqdgSZFA2IIyKO59dmF\nPHvQ\r\n=KR1g\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"0.2.1": {
+			"name": "deps-install",
+			"version": "0.2.1",
+			"dependencies": {
+				"readdirp": "^3.2.0",
+				"semver": "^6.3.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-jTTRh/r+pszOjEOioL/qTGCQkRBlqjxuhS7H2MjpSqZvpM10ZlJ005D04NZyq8UxsA82LxZX83k5wz6hzS6zYw==",
+				"shasum": "fb2a2784fc4fd995a2be136d2d8a855be04ef429",
+				"tarball": "https://registry.npmjs.org/deps-install/-/deps-install-0.2.1.tgz",
+				"fileCount": 4,
+				"unpackedSize": 6298,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdyFzMCRA9TVsSAnZWagAAxmEQAJ1ZWq9bA0gbiUURZkKt\nHal0GcAEWbfpXu4YW2BVmqr7g8YiB0daWbxCfO8FhjxKKya8JySVe6zKhViw\nvjwewAQPgKC2UVaupQJ4WB7fv+6p55M2dY+GAlmF3ZFU0qRihhl+fndk4ug0\nopKzCiPwm4aRQD9khDeZTxT01u8UK99hM8BcTfrkt6bMkgmdEiBLWKDo70lN\nf16SaSbpzVOkz7vpQonePNbRaxxpodUtzx5MoN0K0b/ts5YJb1ZlbZPkBAiT\nFdzR7utxPwJMe6JLZb9AIX1dGyywblUao7RTWmfOmK98ok137HN1OzgmzBru\nTVL0/x31dBoabNjiXmQgo4I1QXGRT73jH7fd/N8FgqKPYaLHPTv48FUOKjn+\nvi758hh0QRzowp0M9gJQRjIEMaa8vcqV+oT/RGXcvKl1gKYBfPJ6+n0vpxpx\nKHpb34XRxr3KDz2e5Km9I5CmVQcNvX6UCA6S8MYCz9UDzBm9vjPH6S9YdS4l\ngvBmLc4/sFFrlHuicekmwfzTX4fKggiO2pTQm5t/4VjcVYwSFmQpBJyDQZeE\njyqH1JsNjddOW046MlW5nq8NfIOOljRoNYGx+6xNwKVDBixDpZx8kXmhiVvd\nE0wlSM3tvBFOnGoa33clUiEY9aK13zI65qliIqREstatE6VpTDRsYnJ4rBIj\nX/Y7\r\n=Zz8d\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		}
+	},
+	"name": "deps-install",
+	"dist-tags": {
+		"latest": "0.2.1"
+	},
+	"modified": "2019-11-10T18:54:06.178Z",
+	"cachedAt": 1574943450758
+}
