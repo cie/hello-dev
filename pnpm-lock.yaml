@@ -1,4 +1,5 @@
 dependencies:
+  moment: 2.24.0
   typescript-brunch: 2.3.0_brunch@2.10.17
 devDependencies:
   auto-reload-brunch: 2.7.1
@@ -1534,6 +1535,10 @@ packages:
     hasBin: true
     resolution:
       integrity: sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
+  /moment/2.24.0:
+    dev: false
+    resolution:
+      integrity: sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
   /mout/1.2.2:
     resolution:
       integrity: sha512-w0OUxFEla6z3d7sVpMZGBCpQvYh8PHS1wZ6Wu9GNKHMpAHWJ0if0LsQZh3DlOqw55HlhJEOMLpFnwtxp99Y5GA==
@@ -2400,5 +2405,6 @@ packages:
 specifiers:
   auto-reload-brunch: ^2.1.0
   brunch: ^2.5.3
+  moment: ''
   typescript-brunch: ^2.3.0
   uglify-js-brunch: ^2.0.1
