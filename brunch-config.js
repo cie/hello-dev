@@ -15,5 +15,11 @@ module.exports = {
     autoRequire: {
       'app.js': ['src/app.ts']
     }
+  },
+  plugins: {
+    brunchTypescript: {
+      ignoreErrors: true,
+      esModuleInterop: true
+    }
   }
 }

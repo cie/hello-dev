@@ -9,14 +9,13 @@
   },
   "devDependencies": {
     "auto-reload-brunch": "^2.7.1",
-    "brunch": "^2.10.17",
+    "fuse-box": "^3.7.1",
     "lodash": "^4.17.15",
     "typescript": "^3.7.2",
     "uglify-js-brunch": "^2.10.0"
   },
   "dependencies": {
     "jsx": "^0.9.89",
-    "moment": "^2.24.0",
-    "typescript-brunch": "^2.3.0"
+    "moment": "^2.24.0"
   }
 }
