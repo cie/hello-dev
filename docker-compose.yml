@@ -1,0 +1,7 @@
+version: '2'
+services:
+  node:
+    build: docker
+    volumes:
+      - '.:/data'
+    network_mode: host
