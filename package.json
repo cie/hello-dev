@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "jsx": "^0.9.89",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
